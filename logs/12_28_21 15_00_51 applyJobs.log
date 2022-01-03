@@ -1,0 +1,5 @@
+./logs/28-Dec-21 15:00:51::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg'}
+./logs/28-Dec-21 15:00:51::__main__::INFO::Welcome to Easy Apply Bot
+./logs/28-Dec-21 15:00:51::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/28-Dec-21 15:00:51::__main__::INFO::[Errno 2] No such file or directory: 'output.csv'   jobIDs could not be loaded from CSV output.csv
+./logs/28-Dec-21 15:00:51::__main__::INFO::Logging in.....Please wait :)  

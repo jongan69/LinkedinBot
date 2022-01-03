@@ -1,0 +1,64 @@
+./logs/28-Dec-21 18:45:02::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg'}
+./logs/28-Dec-21 18:45:02::__main__::INFO::Welcome to Easy Apply Bot
+./logs/28-Dec-21 18:45:02::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/28-Dec-21 18:45:02::__main__::INFO::177 jobIDs found
+./logs/28-Dec-21 18:45:03::__main__::INFO::Logging in.....Please wait :)  
+./logs/28-Dec-21 18:45:25::__main__::INFO::Applying to Software Engineer: Tampa Florida
+./logs/28-Dec-21 18:45:25::__main__::INFO::Looking for jobs.. Please wait..
+./logs/28-Dec-21 18:45:32::__main__::INFO::Lock avoided.
+./logs/28-Dec-21 18:45:53::__main__::INFO::Looking for jobs.. Please wait..
+./logs/28-Dec-21 18:45:53::__main__::INFO::599.0 minutes left in this search
+./logs/28-Dec-21 18:45:53::__main__::DEBUG::Sleeping for 4.1
+./logs/28-Dec-21 18:46:36::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 18:46:49::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 18:46:50::__main__::INFO::
+Position 1:
+ (1) 100% Remote - Go/Golang Developers | Insight Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 18:47:06::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 18:47:19::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 18:47:21::__main__::INFO::
+Position 2:
+ (1) Senior Software Engineer | Mastech Digital | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 18:47:21::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/28-Dec-21 18:47:30::__main__::INFO::Lock avoided.
+./logs/28-Dec-21 18:47:51::__main__::INFO::597.0 minutes left in this search
+./logs/28-Dec-21 18:47:51::__main__::DEBUG::Sleeping for 4.8
+./logs/28-Dec-21 18:48:34::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 18:48:53::__main__::INFO::Application Submitted
+./logs/28-Dec-21 18:48:55::__main__::INFO::
+Position 26:
+ (3) Software Engineer | Belcan | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 18:49:11::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 18:49:20::__main__::INFO::Application Submitted
+./logs/28-Dec-21 18:49:22::__main__::INFO::
+Position 27:
+ (3) Lead Software Product Engineer | Perficient | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 18:49:36::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 18:49:49::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 18:49:51::__main__::INFO::
+Position 28:
+ (3) Senior Software Engineer, Black Diamond | SS&C Advent | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 18:59:16::__main__::INFO::The button does not exist.
+./logs/28-Dec-21 18:59:16::__main__::INFO::
+Position 29:
+ (3) Lead Software Engineer | Openwave Computing LLC | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/28-Dec-21 18:59:34::__main__::INFO::585.0 minutes left in this search
+./logs/28-Dec-21 18:59:34::__main__::DEBUG::Sleeping for 3.7

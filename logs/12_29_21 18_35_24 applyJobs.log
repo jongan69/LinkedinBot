@@ -1,0 +1,69 @@
+./logs/29-Dec-21 18:35:24::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/29-Dec-21 18:35:24::__main__::INFO::Welcome to Easy Apply Bot
+./logs/29-Dec-21 18:35:24::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/29-Dec-21 18:35:24::__main__::INFO::310 jobIDs found
+./logs/29-Dec-21 18:35:25::__main__::INFO::Logging in.....Please wait :)  
+./logs/29-Dec-21 18:35:44::__main__::INFO::Applying to SaaS Intern: Tampa Florida
+./logs/29-Dec-21 18:35:44::__main__::INFO::Looking for jobs.. Please wait..
+./logs/29-Dec-21 18:35:51::__main__::INFO::Lock avoided.
+./logs/29-Dec-21 18:36:11::__main__::INFO::Looking for jobs.. Please wait..
+./logs/29-Dec-21 18:36:11::__main__::INFO::599.0 minutes left in this search
+./logs/29-Dec-21 18:36:11::__main__::DEBUG::Sleeping for 4.0
+./logs/29-Dec-21 18:36:37::__main__::INFO::599.0 minutes left in this search
+./logs/29-Dec-21 18:36:37::__main__::DEBUG::Sleeping for 4.2
+./logs/29-Dec-21 18:37:02::__main__::INFO::598.0 minutes left in this search
+./logs/29-Dec-21 18:37:02::__main__::DEBUG::Sleeping for 4.3
+./logs/29-Dec-21 18:37:28::__main__::INFO::598.0 minutes left in this search
+./logs/29-Dec-21 18:37:28::__main__::DEBUG::Sleeping for 4.3
+./logs/29-Dec-21 18:37:53::__main__::INFO::597.0 minutes left in this search
+./logs/29-Dec-21 18:37:53::__main__::DEBUG::Sleeping for 4.6
+./logs/29-Dec-21 18:38:19::__main__::INFO::597.0 minutes left in this search
+./logs/29-Dec-21 18:38:19::__main__::DEBUG::Sleeping for 4.2
+./logs/29-Dec-21 18:38:45::__main__::INFO::596.0 minutes left in this search
+./logs/29-Dec-21 18:38:45::__main__::DEBUG::Sleeping for 4.3
+./logs/29-Dec-21 18:39:11::__main__::INFO::596.0 minutes left in this search
+./logs/29-Dec-21 18:39:11::__main__::DEBUG::Sleeping for 4.8
+./logs/29-Dec-21 18:39:37::__main__::INFO::596.0 minutes left in this search
+./logs/29-Dec-21 18:39:37::__main__::DEBUG::Sleeping for 3.6
+./logs/29-Dec-21 18:40:02::__main__::INFO::595.0 minutes left in this search
+./logs/29-Dec-21 18:40:02::__main__::DEBUG::Sleeping for 3.6
+./logs/29-Dec-21 18:40:27::__main__::INFO::595.0 minutes left in this search
+./logs/29-Dec-21 18:40:27::__main__::DEBUG::Sleeping for 4.1
+./logs/29-Dec-21 18:40:52::__main__::INFO::594.0 minutes left in this search
+./logs/29-Dec-21 18:40:52::__main__::DEBUG::Sleeping for 3.6
+./logs/29-Dec-21 18:41:17::__main__::INFO::594.0 minutes left in this search
+./logs/29-Dec-21 18:41:17::__main__::DEBUG::Sleeping for 4.6
+./logs/29-Dec-21 18:41:43::__main__::INFO::594.0 minutes left in this search
+./logs/29-Dec-21 18:41:43::__main__::DEBUG::Sleeping for 4.0
+./logs/29-Dec-21 18:42:09::__main__::INFO::593.0 minutes left in this search
+./logs/29-Dec-21 18:42:09::__main__::DEBUG::Sleeping for 4.2
+./logs/29-Dec-21 18:42:34::__main__::INFO::593.0 minutes left in this search
+./logs/29-Dec-21 18:42:34::__main__::DEBUG::Sleeping for 3.8
+./logs/29-Dec-21 18:43:00::__main__::INFO::592.0 minutes left in this search
+./logs/29-Dec-21 18:43:00::__main__::DEBUG::Sleeping for 4.6
+./logs/29-Dec-21 18:43:25::__main__::INFO::592.0 minutes left in this search
+./logs/29-Dec-21 18:43:25::__main__::DEBUG::Sleeping for 4.9
+./logs/29-Dec-21 18:43:52::__main__::INFO::591.0 minutes left in this search
+./logs/29-Dec-21 18:43:52::__main__::DEBUG::Sleeping for 4.7
+./logs/29-Dec-21 18:44:18::__main__::INFO::591.0 minutes left in this search
+./logs/29-Dec-21 18:44:18::__main__::DEBUG::Sleeping for 4.2
+./logs/29-Dec-21 18:44:43::__main__::INFO::591.0 minutes left in this search
+./logs/29-Dec-21 18:44:43::__main__::DEBUG::Sleeping for 4.4
+./logs/29-Dec-21 18:45:09::__main__::INFO::590.0 minutes left in this search
+./logs/29-Dec-21 18:45:09::__main__::DEBUG::Sleeping for 4.8
+./logs/29-Dec-21 18:45:35::__main__::INFO::590.0 minutes left in this search
+./logs/29-Dec-21 18:45:35::__main__::DEBUG::Sleeping for 4.1
+./logs/29-Dec-21 18:46:01::__main__::INFO::589.0 minutes left in this search
+./logs/29-Dec-21 18:46:01::__main__::DEBUG::Sleeping for 3.8
+./logs/29-Dec-21 18:46:29::__main__::INFO::589.0 minutes left in this search
+./logs/29-Dec-21 18:46:29::__main__::DEBUG::Sleeping for 4.6
+./logs/29-Dec-21 18:46:55::__main__::INFO::588.0 minutes left in this search
+./logs/29-Dec-21 18:46:55::__main__::DEBUG::Sleeping for 3.8
+./logs/29-Dec-21 18:54:43::__main__::INFO::581.0 minutes left in this search
+./logs/29-Dec-21 18:54:43::__main__::DEBUG::Sleeping for 4.1
+./logs/29-Dec-21 18:55:09::__main__::INFO::580.0 minutes left in this search
+./logs/29-Dec-21 18:55:09::__main__::DEBUG::Sleeping for 4.3
+./logs/29-Dec-21 18:55:35::__main__::INFO::580.0 minutes left in this search
+./logs/29-Dec-21 18:55:35::__main__::DEBUG::Sleeping for 4.1
+./logs/29-Dec-21 18:55:39::__main__::INFO::580.0 minutes left in this search
+./logs/29-Dec-21 18:55:39::__main__::DEBUG::Sleeping for 4.1

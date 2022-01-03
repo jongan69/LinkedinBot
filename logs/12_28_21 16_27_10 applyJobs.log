@@ -1,0 +1,25 @@
+./logs/28-Dec-21 16:27:10::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg'}
+./logs/28-Dec-21 16:27:10::__main__::INFO::Welcome to Easy Apply Bot
+./logs/28-Dec-21 16:27:10::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/28-Dec-21 16:27:10::__main__::INFO::63 jobIDs found
+./logs/28-Dec-21 16:27:10::__main__::INFO::Logging in.....Please wait :)  
+./logs/28-Dec-21 16:27:35::__main__::INFO::Applying to Engineer: Tampa Florida
+./logs/28-Dec-21 16:27:35::__main__::INFO::Looking for jobs.. Please wait..
+./logs/28-Dec-21 16:27:43::__main__::INFO::Lock avoided.
+./logs/28-Dec-21 16:28:03::__main__::INFO::Looking for jobs.. Please wait..
+./logs/28-Dec-21 16:28:03::__main__::INFO::599.0 minutes left in this search
+./logs/28-Dec-21 16:28:03::__main__::DEBUG::Sleeping for 4.6
+./logs/28-Dec-21 16:28:45::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:29:03::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:29:05::__main__::INFO::
+Position 1:
+ Sr. Software Engineer - Node | TEEMA | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:29:19::__main__::INFO::The button does not exist.
+./logs/28-Dec-21 16:29:19::__main__::INFO::
+Position 2:
+ Associate Software Engineer | Independent Financial Partners (IFP) | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/28-Dec-21 16:29:33::__main__::INFO::Clicking the EASY apply button

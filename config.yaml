@@ -1,0 +1,37 @@
+username: // Your email
+password: // Your password
+
+positions:
+- Data Scientist
+- Software Engineer
+- Junior Software Developer
+- Blockchain Engineer
+- React Engineer
+- SaaS Intern
+- Blockchain Developer
+- Engineer
+- Full Stack
+- # Another position you want to search for
+- # A third position you want to search for
+
+locations:
+- Remote
+- Tampa Florida
+- # A second location you want to search in 
+
+# --------- Optional Parameters -------
+# uploads:
+Resume: /Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf 
+Cover Letter: /Users/jonathangan/Desktop/2022CoverLetter.pdf
+Photo: /Users/jonathangan/Desktop/profilepic.jpg
+
+
+# output_filename:
+# - # PATH TO OUTPUT FILE (default output.csv)
+
+blacklist:
+- CyberCoders
+- Jobot
+
+#blackListTitles:
+#- # Add job titles you want to ignore

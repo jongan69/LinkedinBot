@@ -1,0 +1,32 @@
+./logs/31-Dec-21 13:36:54::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/31-Dec-21 13:36:54::__main__::INFO::Welcome to Easy Apply Bot
+./logs/31-Dec-21 13:36:54::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/31-Dec-21 13:36:54::__main__::INFO::297 jobIDs found
+./logs/31-Dec-21 13:36:54::__main__::INFO::Logging in.....Please wait :)  
+./logs/31-Dec-21 13:37:22::__main__::INFO::Applying to Junior Software Developer: Tampa Florida
+./logs/31-Dec-21 13:37:22::__main__::INFO::Looking for jobs.. Please wait..
+./logs/31-Dec-21 13:37:28::__main__::INFO::Lock avoided.
+./logs/31-Dec-21 13:37:48::__main__::INFO::Looking for jobs.. Please wait..
+./logs/31-Dec-21 13:37:48::__main__::INFO::599.0 minutes left in this search
+./logs/31-Dec-21 13:37:48::__main__::DEBUG::Sleeping for 4.8
+./logs/31-Dec-21 13:38:25::__main__::INFO::Lock avoided.
+./logs/31-Dec-21 13:38:45::__main__::INFO::598.0 minutes left in this search
+./logs/31-Dec-21 13:38:45::__main__::DEBUG::Sleeping for 4.6
+./logs/31-Dec-21 13:39:13::__main__::INFO::598.0 minutes left in this search
+./logs/31-Dec-21 13:39:13::__main__::DEBUG::Sleeping for 4.7
+./logs/31-Dec-21 13:39:39::__main__::INFO::597.0 minutes left in this search
+./logs/31-Dec-21 13:39:39::__main__::DEBUG::Sleeping for 4.9
+./logs/31-Dec-21 13:40:06::__main__::INFO::597.0 minutes left in this search
+./logs/31-Dec-21 13:40:06::__main__::DEBUG::Sleeping for 4.1
+./logs/31-Dec-21 13:40:32::__main__::INFO::596.0 minutes left in this search
+./logs/31-Dec-21 13:40:32::__main__::DEBUG::Sleeping for 3.8
+./logs/31-Dec-21 13:40:58::__main__::INFO::596.0 minutes left in this search
+./logs/31-Dec-21 13:40:58::__main__::DEBUG::Sleeping for 4.9
+./logs/31-Dec-21 13:41:24::__main__::INFO::595.0 minutes left in this search
+./logs/31-Dec-21 13:41:24::__main__::DEBUG::Sleeping for 4.5
+./logs/31-Dec-21 13:41:49::__main__::INFO::595.0 minutes left in this search
+./logs/31-Dec-21 13:41:49::__main__::DEBUG::Sleeping for 4.6
+./logs/31-Dec-21 13:42:14::__main__::INFO::595.0 minutes left in this search
+./logs/31-Dec-21 13:42:14::__main__::DEBUG::Sleeping for 4.1
+./logs/31-Dec-21 13:42:39::__main__::INFO::594.0 minutes left in this search
+./logs/31-Dec-21 13:42:39::__main__::DEBUG::Sleeping for 3.9

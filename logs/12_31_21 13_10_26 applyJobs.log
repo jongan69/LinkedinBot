@@ -1,0 +1,272 @@
+./logs/31-Dec-21 13:10:26::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/31-Dec-21 13:10:26::__main__::INFO::Welcome to Easy Apply Bot
+./logs/31-Dec-21 13:10:26::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/31-Dec-21 13:10:26::__main__::INFO::263 jobIDs found
+./logs/31-Dec-21 13:10:26::__main__::INFO::Logging in.....Please wait :)  
+./logs/31-Dec-21 13:10:46::__main__::INFO::Applying to Junior Software Developer: Tampa Florida
+./logs/31-Dec-21 13:10:46::__main__::INFO::Looking for jobs.. Please wait..
+./logs/31-Dec-21 13:10:53::__main__::INFO::Lock avoided.
+./logs/31-Dec-21 13:11:13::__main__::INFO::Looking for jobs.. Please wait..
+./logs/31-Dec-21 13:11:13::__main__::INFO::599.0 minutes left in this search
+./logs/31-Dec-21 13:11:13::__main__::DEBUG::Sleeping for 4.4
+./logs/31-Dec-21 13:11:54::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:11:54::__main__::INFO::
+Position 1:
+ (44) Backend Web Developer (On W2 / Only US Citizen) | StaffChase | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:12:08::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:12:08::__main__::INFO::
+Position 2:
+ (44) Full Stack Software Engineer | MiSource | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:12:22::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:12:22::__main__::INFO::
+Position 3:
+ (44) Full Stack Java/React developer | Perficient | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:12:36::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:12:48::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:12:50::__main__::INFO::
+Position 4:
+ (44) Full Stack Engineer | Telepathy Labs | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:13:05::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:13:05::__main__::INFO::
+Position 5:
+ (44) Full Stack Developer | Ashley Furniture Industries | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:13:19::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:13:19::__main__::INFO::
+Position 6:
+ (44) Full Stack Developer | Petco | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:13:33::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:13:33::__main__::INFO::
+Position 7:
+ (44) Full Stack Developer (MERN) | StevenDouglas | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:13:47::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:13:59::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:14:01::__main__::INFO::
+Position 8:
+ (44) mean stack developer | LOGICPLANET IT SERVICES (INDIA) PRIVATE LIMITED | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:14:16::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:14:16::__main__::INFO::
+Position 9:
+ (44) Full Stack Developer | Idexcel | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:14:29::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:14:29::__main__::INFO::
+Position 10:
+ (44) Software Engineer (Fullstack) PPD | BST Global | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:14:43::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:14:43::__main__::INFO::
+Position 11:
+ (44) Full Stack Developer | SkyBridge Resources | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:14:57::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:15:14::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:15:16::__main__::INFO::
+Position 12:
+ (44) Senior Software Developer, Full Stack - C# (Open to Remote) | Modern Campus | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:15:16::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/31-Dec-21 13:15:26::__main__::INFO::Lock avoided.
+./logs/31-Dec-21 13:15:46::__main__::INFO::595.0 minutes left in this search
+./logs/31-Dec-21 13:15:46::__main__::DEBUG::Sleeping for 4.7
+./logs/31-Dec-21 13:16:27::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:16:37::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:16:40::__main__::INFO::
+Position 26:
+ (45) Full Stack Developer | Perficient | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:16:54::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:17:10::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:17:11::__main__::INFO::
+Position 27:
+ (46) Software Development Engineer II | Thorne | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:17:26::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:17:26::__main__::INFO::
+Position 28:
+ (46) Senior Java full stack developer | Iris Software Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:17:42::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:17:42::__main__::INFO::
+Position 29:
+ (46) Senior Full Stack Java Developer | Raymond James | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:17:56::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:17:56::__main__::INFO::
+Position 30:
+ (46) Full Stack Developer-Lead | Ashley Furniture Industries | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:18:10::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:18:10::__main__::INFO::
+Position 31:
+ (46) Sr. .NET Full Stack Engineer - Remote | NextPath Career Partners | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:18:23::__main__::INFO::The button does not exist.
+./logs/31-Dec-21 13:18:23::__main__::INFO::
+Position 32:
+ (46) Full Stack Java/React developer | Perficient | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/31-Dec-21 13:18:37::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:18:46::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:18:48::__main__::INFO::
+Position 33:
+ (46) C#/.Net Developer | Ket Software | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:19:02::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:19:13::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:19:15::__main__::INFO::
+Position 34:
+ (46) Full Stack Developer (JavaScript/MySQL) | Zyston LLC | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:19:15::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/31-Dec-21 13:19:24::__main__::INFO::Lock avoided.
+./logs/31-Dec-21 13:19:45::__main__::INFO::591.0 minutes left in this search
+./logs/31-Dec-21 13:19:45::__main__::DEBUG::Sleeping for 4.7
+./logs/31-Dec-21 13:20:26::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:20:36::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:20:37::__main__::INFO::
+Position 51:
+ (46) Hiring: Sr. Java Full Stack Developer with Vue JS @ 100 REMOTE - Any visa is fine for C2C | V-Soft Consulting Group, Inc. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:20:52::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:21:04::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:21:06::__main__::INFO::
+Position 52:
+ (46) Software Developer Volunteer | DSD Recruitment | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:21:21::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:21:30::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:21:33::__main__::INFO::
+Position 53:
+ (46) C++ Developer | KTek Resourcing | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:21:46::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:21:59::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:22:01::__main__::INFO::
+Position 54:
+ (46) sitecore developer | Eminent Software Services | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:22:16::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:22:34::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:22:36::__main__::INFO::
+Position 55:
+ (46) C# Backend API Developer (Remote) | Parlance | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:22:50::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:23:06::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:23:08::__main__::INFO::
+Position 56:
+ (46) Senior Full Stack Engineer | Parallel Finance | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:23:22::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:23:34::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:23:35::__main__::INFO::
+Position 57:
+ (46) Source Code Parsing Software Engineer | CM First Group. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:23:35::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/31-Dec-21 13:23:45::__main__::INFO::Lock avoided.
+./logs/31-Dec-21 13:24:05::__main__::INFO::586.0 minutes left in this search
+./logs/31-Dec-21 13:24:05::__main__::DEBUG::Sleeping for 3.8
+./logs/31-Dec-21 13:24:46::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:24:58::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:25:00::__main__::INFO::
+Position 76:
+ (46) .NET Full Stack Developer | KTek Resourcing | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:25:17::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:25:29::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:25:30::__main__::INFO::
+Position 77:
+ (46) Software Engineer, Ruby on Rails (Triage) | COFENSE | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:25:45::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:26:04::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:26:05::__main__::INFO::
+Position 78:
+ (47) Full Stack .NET Developer | Peoplr, LLC | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:26:20::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:26:30::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:26:32::__main__::INFO::
+Position 79:
+ (47) Full Stack Developer | Confidential | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:26:46::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:26:55::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:26:57::__main__::INFO::
+Position 80:
+ (47) ServiceNow Developer | Aspire Systems | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:27:12::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:27:21::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:27:23::__main__::INFO::
+Position 81:
+ (47) Mulesoft Developer | TechnoGen, Inc. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:27:23::__main__::INFO::********count_application: 20************
+
+
+                                    Time for a nap - see you in: 12 min
+                                ****************************************
+
+

@@ -1,0 +1,164 @@
+./logs/28-Dec-21 16:30:16::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg'}
+./logs/28-Dec-21 16:30:16::__main__::INFO::Welcome to Easy Apply Bot
+./logs/28-Dec-21 16:30:16::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/28-Dec-21 16:30:16::__main__::INFO::65 jobIDs found
+./logs/28-Dec-21 16:30:16::__main__::INFO::Logging in.....Please wait :)  
+./logs/28-Dec-21 16:30:36::__main__::INFO::Applying to Software Engineer: Tampa Florida
+./logs/28-Dec-21 16:30:36::__main__::INFO::Looking for jobs.. Please wait..
+./logs/28-Dec-21 16:30:43::__main__::INFO::Lock avoided.
+./logs/28-Dec-21 16:31:03::__main__::INFO::Looking for jobs.. Please wait..
+./logs/28-Dec-21 16:31:03::__main__::INFO::599.0 minutes left in this search
+./logs/28-Dec-21 16:31:03::__main__::DEBUG::Sleeping for 3.8
+./logs/28-Dec-21 16:31:44::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:31:59::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:32:01::__main__::INFO::
+Position 1:
+ Backend Web Developer (On W2 / Only US Citizen) | StaffChase | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:32:16::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:32:28::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:32:30::__main__::INFO::
+Position 2:
+ Full Stack Software Engineer | MiSource | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:32:45::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:33:05::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:33:06::__main__::INFO::
+Position 3:
+ Senior Software Engineer | Imperium Data | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:33:21::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:33:43::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:33:45::__main__::INFO::
+Position 4:
+ Software Engineer | TECHEAD | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:33:59::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:34:17::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:34:19::__main__::INFO::
+Position 5:
+ Software Engineer In Test - DATA | BST Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:34:33::__main__::INFO::The button does not exist.
+./logs/28-Dec-21 16:34:33::__main__::INFO::
+Position 6:
+ Mobile Engineer | Robert Half | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/28-Dec-21 16:34:47::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:35:07::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:35:08::__main__::INFO::
+Position 7:
+ Senior Software Engineer | Interactive Resources - iR | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:35:23::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:35:32::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 16:35:35::__main__::INFO::
+Position 8:
+ Software Requirements Engineer | Telepathy Labs | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:35:50::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:36:19::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:36:21::__main__::INFO::
+Position 9:
+ (1) JR. Software Engineer | Impact Biosystems | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:36:37::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:36:54::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:36:56::__main__::INFO::
+Position 10:
+ (1) Shopify Developer | Hive Brands | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:37:12::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:37:21::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:37:23::__main__::INFO::
+Position 11:
+ (1) Staff Software Engineer -Java/Mobile- LinkedIn Top Startups | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:37:37::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:37:55::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:37:56::__main__::INFO::
+Position 12:
+ (1) Java Software Engineer | Insight Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:38:10::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:38:19::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 16:38:21::__main__::INFO::
+Position 13:
+ (1) Software Engineer (Node.js)(Remote) | KnowBe4 | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:38:35::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:38:51::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:38:53::__main__::INFO::
+Position 14:
+ (1) Mobile Application Developer | Premier Group Recruitment | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:39:08::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:39:18::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:39:20::__main__::INFO::
+Position 15:
+ (1) Software Developer - PHP - REMOTE | Perficient | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:39:33::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:39:46::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 16:39:48::__main__::INFO::
+Position 16:
+ (1) Sr. Software Engineer | Anchor Glass Container Corp | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:40:04::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:40:21::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:40:23::__main__::INFO::
+Position 17:
+ (1) Senior Embedded Software Engineer (SATCOM) | Acara Solutions | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:40:39::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:40:52::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 16:40:54::__main__::INFO::
+Position 18:
+ (1) Software Engineer | ByDesign Technologies | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:41:08::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:41:25::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:41:27::__main__::INFO::
+Position 19:
+ (1) Database Software Engineer | Anvalad AG | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:41:42::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:41:57::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:41:59::__main__::INFO::
+Position 20:
+ (1) ReactJS/JavaScript Software Engineer | PF1 Professional Services, Inc. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:42:13::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:42:25::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 16:42:28::__main__::INFO::
+Position 21:
+ (1) Lead Software Engineer | Phyton Talent Advisors | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:42:28::__main__::INFO::********count_application: 20************
+
+
+                                    Time for a nap - see you in:14 min
+                                ****************************************
+
+

@@ -1,0 +1,174 @@
+./logs/29-Dec-21 15:35:57::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg'}
+./logs/29-Dec-21 15:35:57::__main__::INFO::Welcome to Easy Apply Bot
+./logs/29-Dec-21 15:35:57::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/29-Dec-21 15:35:57::__main__::INFO::183 jobIDs found
+./logs/29-Dec-21 15:35:58::__main__::INFO::Logging in.....Please wait :)  
+./logs/29-Dec-21 15:36:19::__main__::INFO::Applying to Blockchain Engineer: Remote
+./logs/29-Dec-21 15:36:19::__main__::INFO::Looking for jobs.. Please wait..
+./logs/29-Dec-21 15:36:27::__main__::INFO::Lock avoided.
+./logs/29-Dec-21 15:36:47::__main__::INFO::Looking for jobs.. Please wait..
+./logs/29-Dec-21 15:36:47::__main__::INFO::599.0 minutes left in this search
+./logs/29-Dec-21 15:36:47::__main__::DEBUG::Sleeping for 3.5
+./logs/29-Dec-21 15:37:30::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 15:37:44::__main__::INFO::Application Submitted
+./logs/29-Dec-21 15:37:46::__main__::INFO::
+Position 1:
+ (5) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 15:38:02::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 15:38:13::__main__::INFO::Could not complete submission
+./logs/29-Dec-21 15:38:15::__main__::INFO::
+Position 2:
+ (5) Full Stack Engineer | ClubRare | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 15:38:31::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 15:38:44::__main__::INFO::Could not complete submission
+./logs/29-Dec-21 15:38:45::__main__::INFO::
+Position 3:
+ (5) Smartwaiver - Full Stack Engineer (Remote based) | Smartwaiver | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 15:39:00::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 15:39:15::__main__::INFO::Application Submitted
+./logs/29-Dec-21 15:39:17::__main__::INFO::
+Position 4:
+ (5) Remote Fullstack Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 15:39:32::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 15:39:45::__main__::INFO::Application Submitted
+./logs/29-Dec-21 15:39:47::__main__::INFO::
+Position 5:
+ (5) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 15:44:00::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 15:44:10::__main__::INFO::Application Submitted
+./logs/29-Dec-21 15:44:13::__main__::INFO::
+Position 6:
+ (5) Senior Blockchain Engineer | Ledgent Technology | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 15:44:29::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 15:44:42::__main__::INFO::Application Submitted
+./logs/29-Dec-21 15:44:44::__main__::INFO::
+Position 7:
+ (5) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 15:44:59::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 15:45:10::__main__::INFO::Could not complete submission
+./logs/29-Dec-21 15:45:13::__main__::INFO::
+Position 8:
+ (5) Blockchain Developer | FlexSmart | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 15:45:27::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 15:45:40::__main__::INFO::Application Submitted
+./logs/29-Dec-21 15:45:42::__main__::INFO::
+Position 9:
+ (5) Remote Fullstack Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 15:45:58::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 15:46:13::__main__::INFO::Application Submitted
+./logs/29-Dec-21 16:16:50::__main__::INFO::
+Position 10:
+ (5) Remote Fullstack Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:17:17::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 16:17:32::__main__::INFO::Could not complete submission
+./logs/29-Dec-21 16:17:34::__main__::INFO::
+Position 11:
+ (8) Full Stack Developer | PangoBooks | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:17:50::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 16:18:03::__main__::INFO::Application Submitted
+./logs/29-Dec-21 16:18:04::__main__::INFO::
+Position 12:
+ (9) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:18:20::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 16:18:30::__main__::INFO::Could not complete submission
+./logs/29-Dec-21 16:18:32::__main__::INFO::
+Position 13:
+ (9) Back End Developer | EthSign | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:18:47::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 16:19:02::__main__::INFO::Application Submitted
+./logs/29-Dec-21 16:19:05::__main__::INFO::
+Position 14:
+ (9) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:19:19::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 16:19:36::__main__::INFO::Application Submitted
+./logs/29-Dec-21 16:19:37::__main__::INFO::
+Position 15:
+ (6) Software Engineer C# | Langley Recruitment Solutions | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:19:52::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 16:20:04::__main__::INFO::Could not complete submission
+./logs/29-Dec-21 16:20:06::__main__::INFO::
+Position 16:
+ (6) Full Stack Engineer | Insight Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:20:06::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/29-Dec-21 16:24:02::__main__::INFO::Lock avoided.
+./logs/29-Dec-21 16:24:23::__main__::INFO::551.0 minutes left in this search
+./logs/29-Dec-21 16:24:23::__main__::DEBUG::Sleeping for 4.0
+./logs/29-Dec-21 16:25:06::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 16:25:18::__main__::INFO::Could not complete submission
+./logs/29-Dec-21 16:25:20::__main__::INFO::
+Position 26:
+ (3) Fullstack Javascript Developer | Tragic Media | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:25:35::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 16:25:49::__main__::INFO::Application Submitted
+./logs/29-Dec-21 16:25:51::__main__::INFO::
+Position 27:
+ (3) Full Stack Developer - Crypto, Node, React! | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:26:07::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 16:26:15::__main__::INFO::Application Submitted
+./logs/29-Dec-21 16:26:17::__main__::INFO::
+Position 28:
+ (3) 100% Remote Full Stack Javascript Developer | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:26:31::__main__::INFO::The button does not exist.
+./logs/29-Dec-21 16:26:31::__main__::INFO::
+Position 29:
+ (3) Full Stack Developer - Crypto, Node, React! | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/29-Dec-21 16:27:47::__main__::INFO::Clicking the EASY apply button
+./logs/29-Dec-21 16:28:03::__main__::INFO::Application Submitted
+./logs/29-Dec-21 16:28:04::__main__::INFO::
+Position 30:
+ (3) Remote Fullstack Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/29-Dec-21 16:28:04::__main__::INFO::********count_application: 20************
+
+
+                                    Time for a nap - see you in:8 min
+                                ****************************************
+
+

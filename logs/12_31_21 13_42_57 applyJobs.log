@@ -1,0 +1,455 @@
+./logs/31-Dec-21 13:42:57::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/31-Dec-21 13:42:57::__main__::INFO::Welcome to Easy Apply Bot
+./logs/31-Dec-21 13:42:57::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/31-Dec-21 13:42:57::__main__::INFO::297 jobIDs found
+./logs/31-Dec-21 13:42:57::__main__::INFO::Logging in.....Please wait :)  
+./logs/31-Dec-21 13:43:17::__main__::INFO::Applying to Engineer: Remote
+./logs/31-Dec-21 13:43:17::__main__::INFO::Looking for jobs.. Please wait..
+./logs/31-Dec-21 13:43:24::__main__::INFO::Lock avoided.
+./logs/31-Dec-21 13:43:44::__main__::INFO::Looking for jobs.. Please wait..
+./logs/31-Dec-21 13:43:44::__main__::INFO::599.0 minutes left in this search
+./logs/31-Dec-21 13:43:44::__main__::DEBUG::Sleeping for 4.4
+./logs/31-Dec-21 13:44:25::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:44:35::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:44:37::__main__::INFO::
+Position 1:
+ Frontend Engineer | Ringside Talent | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:44:51::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:45:00::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:45:01::__main__::INFO::
+Position 2:
+ Software Engineer – React | The Connors Group | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:45:16::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:45:28::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:45:30::__main__::INFO::
+Position 3:
+ Junior Software Engineer (Java) (MUST BE LOCATED IN TULSA OR WILLING TO RELOCATE TO TULSA) | Bootup | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:45:44::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:45:54::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:45:56::__main__::INFO::
+Position 4:
+ Frontend Engineer | CareerWellness | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:46:11::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:46:27::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:46:29::__main__::INFO::
+Position 5:
+ UX Engineer | Kismet Search | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:46:44::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:46:57::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:46:59::__main__::INFO::
+Position 6:
+ Full Stack Engineer | Avventis Inc. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:47:14::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:47:29::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:47:31::__main__::INFO::
+Position 7:
+ (1) Software Engineer | LightBox | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:47:46::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:47:58::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:48:00::__main__::INFO::
+Position 8:
+ (1) IoT Research Engineer | WorldLink US | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:48:15::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:48:25::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:48:27::__main__::INFO::
+Position 9:
+ (1) Software Engineer | Lucas Group, A Korn Ferry Company | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:48:41::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:48:53::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:48:55::__main__::INFO::
+Position 10:
+ (1) Java Software Engineer | the interprose corporation | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:49:09::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:49:21::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:49:23::__main__::INFO::
+Position 11:
+ (2) Platform Integration Engineer | Insight Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:49:38::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:49:50::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:49:51::__main__::INFO::
+Position 12:
+ (2) Software Engineer Team Lead | Bellwood Labs | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:50:06::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:50:18::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:50:21::__main__::INFO::
+Position 13:
+ (2) iOS Engineer | Startup (in Stealth Mode) | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:50:36::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:50:52::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:50:54::__main__::INFO::
+Position 14:
+ (2) Software Engineer (Fast growing start-up) | TeamScaler | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:51:09::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:51:22::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:51:24::__main__::INFO::
+Position 15:
+ (2) Software Engineer | Thrive Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:51:39::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:51:59::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:52:02::__main__::INFO::
+Position 16:
+ (2) Mobile Engineer | obé Fitness | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:52:02::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/31-Dec-21 13:52:11::__main__::INFO::Lock avoided.
+./logs/31-Dec-21 13:52:31::__main__::INFO::590.0 minutes left in this search
+./logs/31-Dec-21 13:52:31::__main__::DEBUG::Sleeping for 4.8
+./logs/31-Dec-21 13:53:13::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:53:22::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:53:24::__main__::INFO::
+Position 26:
+ (2) Senior Software Engineer (Mobile, Android) | Nubitz | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:53:39::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:53:50::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:53:53::__main__::INFO::
+Position 27:
+ (2) Software Engineer (+ Senior/Full-Stack/Principal etc.) | ObjectSecurity | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:54:06::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:54:19::__main__::INFO::Could not complete submission
+./logs/31-Dec-21 13:54:21::__main__::INFO::
+Position 28:
+ (2) Mobile Software Engineer | UpRoar Technologies | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:54:36::__main__::INFO::Clicking the EASY apply button
+./logs/31-Dec-21 13:54:45::__main__::INFO::Application Submitted
+./logs/31-Dec-21 13:54:46::__main__::INFO::
+Position 29:
+ (2) Founding Engineer (UI/Mobile) | Wildkard | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/31-Dec-21 13:54:46::__main__::INFO::********count_application: 20************
+
+
+                                    Time for a nap - see you in: 10 min
+                                ****************************************
+
+
+./logs/31-Dec-21 17:04:46::__main__::INFO::398.0 minutes left in this search
+./logs/31-Dec-21 17:04:46::__main__::DEBUG::Sleeping for 4.7
+./logs/31-Dec-21 17:05:12::__main__::INFO::398.0 minutes left in this search
+./logs/31-Dec-21 17:05:12::__main__::DEBUG::Sleeping for 3.9
+./logs/31-Dec-21 17:28:42::__main__::INFO::374.0 minutes left in this search
+./logs/31-Dec-21 17:28:42::__main__::DEBUG::Sleeping for 4.1
+./logs/31-Dec-21 17:30:25::__main__::INFO::372.0 minutes left in this search
+./logs/31-Dec-21 17:30:25::__main__::DEBUG::Sleeping for 3.7
+./logs/31-Dec-21 17:30:49::__main__::INFO::372.0 minutes left in this search
+./logs/31-Dec-21 17:30:49::__main__::DEBUG::Sleeping for 4.6
+./logs/31-Dec-21 17:31:42::__main__::INFO::371.0 minutes left in this search
+./logs/31-Dec-21 17:31:42::__main__::DEBUG::Sleeping for 4.3
+./logs/31-Dec-21 17:32:07::__main__::INFO::371.0 minutes left in this search
+./logs/31-Dec-21 17:32:07::__main__::DEBUG::Sleeping for 4.6
+./logs/31-Dec-21 17:40:51::__main__::INFO::362.0 minutes left in this search
+./logs/31-Dec-21 17:40:51::__main__::DEBUG::Sleeping for 4.0
+./logs/31-Dec-21 17:41:15::__main__::INFO::362.0 minutes left in this search
+./logs/31-Dec-21 17:41:15::__main__::DEBUG::Sleeping for 3.9
+./logs/31-Dec-21 17:59:14::__main__::INFO::344.0 minutes left in this search
+./logs/31-Dec-21 17:59:14::__main__::DEBUG::Sleeping for 4.1
+./logs/31-Dec-21 17:59:38::__main__::INFO::343.0 minutes left in this search
+./logs/31-Dec-21 17:59:38::__main__::DEBUG::Sleeping for 4.6
+./logs/31-Dec-21 18:00:03::__main__::INFO::343.0 minutes left in this search
+./logs/31-Dec-21 18:00:03::__main__::DEBUG::Sleeping for 3.5
+./logs/31-Dec-21 18:00:27::__main__::INFO::342.0 minutes left in this search
+./logs/31-Dec-21 18:00:27::__main__::DEBUG::Sleeping for 3.8
+./logs/31-Dec-21 18:00:51::__main__::INFO::342.0 minutes left in this search
+./logs/31-Dec-21 18:00:51::__main__::DEBUG::Sleeping for 4.5
+./logs/31-Dec-21 18:01:15::__main__::INFO::342.0 minutes left in this search
+./logs/31-Dec-21 18:01:15::__main__::DEBUG::Sleeping for 3.5
+./logs/31-Dec-21 18:01:39::__main__::INFO::341.0 minutes left in this search
+./logs/31-Dec-21 18:01:39::__main__::DEBUG::Sleeping for 3.5
+./logs/31-Dec-21 18:02:03::__main__::INFO::341.0 minutes left in this search
+./logs/31-Dec-21 18:02:03::__main__::DEBUG::Sleeping for 3.7
+./logs/31-Dec-21 18:02:26::__main__::INFO::340.0 minutes left in this search
+./logs/31-Dec-21 18:02:26::__main__::DEBUG::Sleeping for 4.0
+./logs/31-Dec-21 18:10:55::__main__::INFO::332.0 minutes left in this search
+./logs/31-Dec-21 18:10:55::__main__::DEBUG::Sleeping for 4.4
+./logs/31-Dec-21 18:11:20::__main__::INFO::331.0 minutes left in this search
+./logs/31-Dec-21 18:11:20::__main__::DEBUG::Sleeping for 4.5
+./logs/31-Dec-21 20:11:39::__main__::INFO::211.0 minutes left in this search
+./logs/31-Dec-21 20:11:39::__main__::DEBUG::Sleeping for 4.9
+./logs/31-Dec-21 22:00:13::__main__::INFO::103.0 minutes left in this search
+./logs/31-Dec-21 22:00:13::__main__::DEBUG::Sleeping for 4.8
+./logs/01-Jan-22 00:00:35::__main__::INFO::Applying to Software Engineer: Tampa Florida
+./logs/01-Jan-22 00:00:35::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-Jan-22 00:00:58::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 02:01:25::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-Jan-22 02:01:25::__main__::INFO::479.0 minutes left in this search
+./logs/01-Jan-22 02:01:25::__main__::DEBUG::Sleeping for 4.5
+./logs/01-Jan-22 06:12:38::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 06:12:39::__main__::INFO::
+Position 1:
+ (20) Volunteer programmer for a disability mobile game | Florida Disability Access and Awareness Foundation, Inc | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 10:00:15::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 10:00:15::__main__::INFO::
+Position 2:
+ www.linkedin.com 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 10:00:15::__main__::INFO::0.0 minutes left in this search
+./logs/01-Jan-22 10:00:15::__main__::DEBUG::Sleeping for 3.8
+./logs/01-Jan-22 20:45:09::__main__::INFO::Applying to Junior Software Developer: Tampa Florida
+./logs/01-Jan-22 20:45:09::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-Jan-22 20:45:39::__main__::INFO::Lock avoided.
+./logs/02-Jan-22 06:58:05::__main__::INFO::Looking for jobs.. Please wait..
+./logs/02-Jan-22 06:58:05::__main__::INFO::Applying to Junior Software Developer: Remote
+./logs/02-Jan-22 06:58:05::__main__::INFO::Looking for jobs.. Please wait..
+./logs/02-Jan-22 12:45:24::__main__::INFO::Lock avoided.
+./logs/02-Jan-22 12:45:46::__main__::INFO::Looking for jobs.. Please wait..
+./logs/02-Jan-22 12:45:46::__main__::INFO::252.0 minutes left in this search
+./logs/02-Jan-22 12:45:46::__main__::DEBUG::Sleeping for 4.8
+./logs/02-Jan-22 12:46:29::__main__::INFO::The button does not exist.
+./logs/02-Jan-22 12:46:29::__main__::INFO::
+Position 1:
+ (46) Full Stack Engineer | Storm5 | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/02-Jan-22 12:46:46::__main__::INFO::The button does not exist.
+./logs/02-Jan-22 12:46:46::__main__::INFO::
+Position 2:
+ (46) Volunteer programmer for a disability mobile game | Florida Disability Access and Awareness Foundation, Inc | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/02-Jan-22 12:47:12::__main__::INFO::The button does not exist.
+./logs/02-Jan-22 12:47:12::__main__::INFO::
+Position 3:
+ (46) React Full Stack Developer | OtterBase | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/02-Jan-22 12:47:28::__main__::INFO::The button does not exist.
+./logs/02-Jan-22 12:47:28::__main__::INFO::
+Position 4:
+ (46) Systems/C++ developer | End Point Corporation | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/02-Jan-22 12:47:28::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/02-Jan-22 12:47:38::__main__::INFO::Lock avoided.
+./logs/02-Jan-22 12:47:59::__main__::INFO::250.0 minutes left in this search
+./logs/02-Jan-22 12:47:59::__main__::DEBUG::Sleeping for 4.0
+./logs/02-Jan-22 12:52:53::__main__::INFO::The button does not exist.
+./logs/02-Jan-22 12:52:53::__main__::INFO::
+Position 26:
+ (46) Full Stack Engineer | Coterie Insurance | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/02-Jan-22 12:53:20::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:53:30::__main__::INFO::Could not complete submission
+./logs/02-Jan-22 12:53:32::__main__::INFO::
+Position 27:
+ (46) Full Stack Engineer (fully remote) | McGaw.io | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 12:53:49::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:54:10::__main__::INFO::Application Submitted
+./logs/02-Jan-22 12:54:12::__main__::INFO::
+Position 28:
+ (46) Full Stack iOS Developer | QPS Employment Group | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 12:54:26::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:54:42::__main__::INFO::Application Submitted
+./logs/02-Jan-22 12:54:44::__main__::INFO::
+Position 29:
+ (46) Full Stack Serverless Engineer - React Node | IGNW | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 12:54:59::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:55:10::__main__::INFO::Could not complete submission
+./logs/02-Jan-22 12:55:12::__main__::INFO::
+Position 30:
+ (46) Shopify Full stack developer | Karma and Luck | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 12:55:27::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:55:40::__main__::INFO::Application Submitted
+./logs/02-Jan-22 12:55:43::__main__::INFO::
+Position 31:
+ (46) Web Developer | Servsys Corporation | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 12:55:43::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/02-Jan-22 12:55:53::__main__::INFO::Lock avoided.
+./logs/02-Jan-22 12:56:13::__main__::INFO::241.0 minutes left in this search
+./logs/02-Jan-22 12:56:13::__main__::DEBUG::Sleeping for 3.9
+./logs/02-Jan-22 12:56:54::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:57:15::__main__::INFO::Application Submitted
+./logs/02-Jan-22 12:57:17::__main__::INFO::
+Position 51:
+ (46) Full Stack Engineer | Lighthouse | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 12:57:31::__main__::INFO::The button does not exist.
+./logs/02-Jan-22 12:57:31::__main__::INFO::
+Position 52:
+ (46) Full Stack Engineer *U.S. Citizenship required* | GeoSearch | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/02-Jan-22 12:57:44::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:57:57::__main__::INFO::Could not complete submission
+./logs/02-Jan-22 12:57:59::__main__::INFO::
+Position 53:
+ (46) Full Stack Java Developer (Virtual / Remote) | Immersive Wisdom | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 12:58:13::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:58:33::__main__::INFO::Application Submitted
+./logs/02-Jan-22 12:58:35::__main__::INFO::
+Position 54:
+ (46) Full Stack Engineer | Softrams | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 12:58:49::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:58:59::__main__::INFO::Application Submitted
+./logs/02-Jan-22 12:59:01::__main__::INFO::
+Position 55:
+ (46) Web Developer | Buchanan Tech | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 12:59:14::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:59:25::__main__::INFO::Could not complete submission
+./logs/02-Jan-22 12:59:27::__main__::INFO::
+Position 56:
+ (46) Full Stack Engineer | 1872 Consulting | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 12:59:41::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 12:59:56::__main__::INFO::Application Submitted
+./logs/02-Jan-22 12:59:58::__main__::INFO::
+Position 57:
+ (46) Full Stack Engineer | Cloud Integrator Inc | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 13:00:12::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 13:00:32::__main__::INFO::Application Submitted
+./logs/02-Jan-22 13:00:35::__main__::INFO::
+Position 58:
+ (47) Full Stack Engineer | Hub Recruiting | TA for the Modern World | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 13:00:49::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 13:01:02::__main__::INFO::Application Submitted
+./logs/02-Jan-22 13:01:05::__main__::INFO::
+Position 59:
+ (46) Full Stack Engineer | Confidential | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 13:01:19::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 13:01:35::__main__::INFO::Application Submitted
+./logs/02-Jan-22 13:01:37::__main__::INFO::
+Position 60:
+ (46) Full Stack Engineer | Roth Staffing | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 13:01:50::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 13:02:05::__main__::INFO::Application Submitted
+./logs/02-Jan-22 13:02:07::__main__::INFO::
+Position 61:
+ (46) Full Stack Engineer | MetLife Legal Plans | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 13:02:21::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 13:02:38::__main__::INFO::Application Submitted
+./logs/02-Jan-22 13:02:40::__main__::INFO::
+Position 62:
+ (46) Full Stack Engineer | Modis | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 13:02:53::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 13:03:06::__main__::INFO::Could not complete submission
+./logs/02-Jan-22 13:03:08::__main__::INFO::
+Position 63:
+ (46) Senior Full Stack Java Developer (Virtual / Remote) | Immersive Wisdom | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 13:03:08::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/02-Jan-22 13:03:17::__main__::INFO::Lock avoided.
+./logs/02-Jan-22 13:03:37::__main__::INFO::234.0 minutes left in this search
+./logs/02-Jan-22 13:03:37::__main__::DEBUG::Sleeping for 4.9
+./logs/02-Jan-22 13:04:19::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 13:04:31::__main__::INFO::Could not complete submission
+./logs/02-Jan-22 13:04:33::__main__::INFO::
+Position 76:
+ (46) Junior Full Stack Engineer | Brooksource | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 13:04:48::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 13:05:06::__main__::INFO::Application Submitted
+./logs/02-Jan-22 13:05:07::__main__::INFO::
+Position 77:
+ (46) Web Designer & Developer | Blip | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 13:05:21::__main__::INFO::Clicking the EASY apply button
+./logs/02-Jan-22 13:05:44::__main__::INFO::Could not complete submission
+./logs/02-Jan-22 13:05:45::__main__::INFO::
+Position 78:
+ (46) Full-Stack Web Developer (U.S. Residents Only) | Alpine Home Air | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/02-Jan-22 13:05:45::__main__::INFO::********count_application: 20************
+
+
+                                    Time for a nap - see you in: 10 min
+                                ****************************************
+
+

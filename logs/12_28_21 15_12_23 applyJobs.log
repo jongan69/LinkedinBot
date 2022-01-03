@@ -1,0 +1,548 @@
+./logs/28-Dec-21 15:12:23::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg'}
+./logs/28-Dec-21 15:12:23::__main__::INFO::Welcome to Easy Apply Bot
+./logs/28-Dec-21 15:12:23::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/28-Dec-21 15:12:23::__main__::INFO::[Errno 2] No such file or directory: 'output.csv'   jobIDs could not be loaded from CSV output.csv
+./logs/28-Dec-21 15:12:24::__main__::INFO::Logging in.....Please wait :)  
+./logs/28-Dec-21 15:12:45::__main__::INFO::Applying to SaaS Intern: Tampa Florida
+./logs/28-Dec-21 15:12:45::__main__::INFO::Looking for jobs.. Please wait..
+./logs/28-Dec-21 15:12:53::__main__::INFO::Lock avoided.
+./logs/28-Dec-21 15:13:13::__main__::INFO::Looking for jobs.. Please wait..
+./logs/28-Dec-21 15:13:13::__main__::INFO::599.0 minutes left in this search
+./logs/28-Dec-21 15:13:13::__main__::DEBUG::Sleeping for 4.7
+./logs/28-Dec-21 15:13:55::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:14:08::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:14:10::__main__::INFO::
+Position 1:
+ (1) Web Development Intern - Remote and Unpaid | Snapbrillia | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:14:27::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:14:39::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:14:42::__main__::INFO::
+Position 2:
+ (1) Account Executive US based-Remote | Mouseflow | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:14:42::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/28-Dec-21 15:14:51::__main__::INFO::Lock avoided.
+./logs/28-Dec-21 15:15:15::__main__::INFO::597.0 minutes left in this search
+./logs/28-Dec-21 15:15:15::__main__::DEBUG::Sleeping for 4.2
+./logs/28-Dec-21 15:15:43::__main__::INFO::Applying to Blockchain Engineer: Remote
+./logs/28-Dec-21 15:15:43::__main__::INFO::Looking for jobs.. Please wait..
+./logs/28-Dec-21 15:15:49::__main__::INFO::Lock avoided.
+./logs/28-Dec-21 15:16:10::__main__::INFO::Looking for jobs.. Please wait..
+./logs/28-Dec-21 15:16:10::__main__::INFO::599.0 minutes left in this search
+./logs/28-Dec-21 15:16:10::__main__::DEBUG::Sleeping for 3.9
+./logs/28-Dec-21 15:16:51::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:17:01::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:17:02::__main__::INFO::
+Position 1:
+ (1) Full Stack Engineer | Stout Systems | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:17:16::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:17:29::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:17:31::__main__::INFO::
+Position 2:
+ (1) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:17:45::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:17:56::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:17:59::__main__::INFO::
+Position 3:
+ (1) Senior Blockchain Engineer - Smart Contract / Solidity | Austin Werner Ltd | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:18:13::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:18:26::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:18:28::__main__::INFO::
+Position 4:
+ (1) Blockchain Developer | Mitchell Martin Inc. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:18:42::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:18:54::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:18:56::__main__::INFO::
+Position 5:
+ (1) Mobile and Web App Developer | PetKey, LLC | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:19:12::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:19:22::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:19:24::__main__::INFO::
+Position 6:
+ (1) REMOTE Senior Full Stack Blockchain Engineer | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:19:38::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:19:49::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:19:51::__main__::INFO::
+Position 7:
+ (1) Lead Blockchain Engineer | Concept Art House | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:20:06::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:20:19::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:20:21::__main__::INFO::
+Position 8:
+ (1) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:20:35::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:20:44::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:20:46::__main__::INFO::
+Position 9:
+ (1) Junior/Mid Full Stack Engineer (Remote) | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:21:00::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:21:14::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:21:16::__main__::INFO::
+Position 10:
+ (1) W2 Full Stack Developer | Insight Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:21:30::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:21:44::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:21:46::__main__::INFO::
+Position 11:
+ (1) REMOTE Software Engineer (Full Stack) | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:22:01::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:22:14::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:22:16::__main__::INFO::
+Position 12:
+ (1) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:22:32::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:22:41::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:22:44::__main__::INFO::
+Position 13:
+ (1) Blockchain Engineer (Node.js) - Global Fintech Startup | Crypto.com | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:22:58::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:23:07::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:23:09::__main__::INFO::
+Position 14:
+ (1) REMOTE Full-Stack C++Developer - HTML, JavaScript, SQL | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:23:23::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:23:32::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:23:34::__main__::INFO::
+Position 15:
+ (1) 100% REMOTE Frontend Software Engineer | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:23:48::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:23:59::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:24:01::__main__::INFO::
+Position 16:
+ (1) Full Stack Developer | Agility Consultants, LLC | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:24:15::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:24:28::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:24:30::__main__::INFO::
+Position 17:
+ (1) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:24:44::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:24:57::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:24:58::__main__::INFO::
+Position 18:
+ (1) Blockchain Developer | NETRAID | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:25:13::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:25:23::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:25:25::__main__::INFO::
+Position 19:
+ (1) 100% Remote Full Stack Javascript Developer | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:25:39::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:25:52::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:25:54::__main__::INFO::
+Position 20:
+ (1) Full-Stack Developer | BAREL™ | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:25:54::__main__::INFO::********count_application: 20************
+
+
+                                    Time for a nap - see you in:10 min
+                                ****************************************
+
+
+./logs/28-Dec-21 15:37:11::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:37:22::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:37:24::__main__::INFO::
+Position 21:
+ (1) REMOTE Full-Stack C++Developer - HTML, JavaScript, SQL | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:37:38::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:37:48::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:37:50::__main__::INFO::
+Position 22:
+ (1) Blockchain Engineer | Leyline | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:38:04::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:38:19::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:38:21::__main__::INFO::
+Position 23:
+ (1) Sr. Blockchain Engineer | Sila | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:38:35::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:38:49::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:38:51::__main__::INFO::
+Position 24:
+ (1) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:38:51::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/28-Dec-21 15:39:01::__main__::INFO::Lock avoided.
+./logs/28-Dec-21 15:39:43::__main__::INFO::575.0 minutes left in this search
+./logs/28-Dec-21 15:39:43::__main__::DEBUG::Sleeping for 4.8
+./logs/28-Dec-21 15:47:19::__main__::INFO::The button does not exist.
+./logs/28-Dec-21 15:47:19::__main__::INFO::
+Position 26:
+ (1) Blockchain / Solidity Developer | Netvrk | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/28-Dec-21 15:47:39::__main__::INFO::The button does not exist.
+./logs/28-Dec-21 15:47:39::__main__::INFO::
+Position 27:
+ (1) Golang/Blockchain Engineer | Pastel Network | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/28-Dec-21 15:47:53::__main__::INFO::The button does not exist.
+./logs/28-Dec-21 15:47:53::__main__::INFO::
+Position 28:
+ (1) Blockchain Developer - Gaming | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/28-Dec-21 15:52:54::__main__::INFO::The button does not exist.
+./logs/28-Dec-21 15:52:54::__main__::INFO::
+Position 29:
+ (1) Blockchain Developer | SkyeKiwi | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/28-Dec-21 15:53:40::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:53:52::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:53:54::__main__::INFO::
+Position 30:
+ (1) Blockchain Developer | Manage Resources Recursos Humanos | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:54:09::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:54:19::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:54:21::__main__::INFO::
+Position 31:
+ (1) REMOTE Full-Stack C++Developer - HTML, JavaScript, SQL | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:54:36::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:54:45::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:54:47::__main__::INFO::
+Position 32:
+ (1) (100% Remote) Full Stack Software Engineer - C# / JavaScript | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:54:47::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/28-Dec-21 15:54:57::__main__::INFO::Lock avoided.
+./logs/28-Dec-21 15:55:17::__main__::INFO::560.0 minutes left in this search
+./logs/28-Dec-21 15:55:17::__main__::DEBUG::Sleeping for 3.7
+./logs/28-Dec-21 15:55:58::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:56:14::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:56:16::__main__::INFO::
+Position 51:
+ (1) Full Stack Engineer | Robert Half | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:56:31::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:56:40::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:56:43::__main__::INFO::
+Position 52:
+ (1) REMOTE Full Stack Developer (160K) | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:56:57::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:57:10::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:57:12::__main__::INFO::
+Position 53:
+ (1) Full stack Software Engineer Golang, Javascript, Typescript | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:57:26::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:57:35::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:57:37::__main__::INFO::
+Position 54:
+ (1) REMOTE Full Stack Developer | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:57:51::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:58:01::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:58:03::__main__::INFO::
+Position 55:
+ (1) 100% REMOTE Blockchain and Solidity Developers | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:58:17::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:58:28::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 15:58:30::__main__::INFO::
+Position 56:
+ (1) Full Stack Blockchain Engineer Web3 Architect | Gopher | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:58:45::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:58:54::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:58:56::__main__::INFO::
+Position 57:
+ (1) Blockchain Developer - 100% REMOTE - Node.js, REACT, Go | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:59:11::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:59:19::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:59:21::__main__::INFO::
+Position 58:
+ (1) REMOTE Full Stack Developer (160K) | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 15:59:35::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 15:59:49::__main__::INFO::Application Submitted
+./logs/28-Dec-21 15:59:51::__main__::INFO::
+Position 59:
+ (1) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:00:05::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:00:20::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:00:21::__main__::INFO::
+Position 60:
+ (1) Full Stack Engineer | Robert Half | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:00:37::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:00:50::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:00:52::__main__::INFO::
+Position 61:
+ (1) Solana Blockchain Developer | IMX Health, LLC. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:01:07::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:01:16::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:01:19::__main__::INFO::
+Position 62:
+ (1) REMOTE Full Stack Developer | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:01:33::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:01:47::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:01:49::__main__::INFO::
+Position 63:
+ (1) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:01:49::__main__::INFO::********count_application: 40************
+
+
+                                    Time for a nap - see you in:12 min
+                                ****************************************
+
+
+./logs/28-Dec-21 16:14:34::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:14:47::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 16:14:49::__main__::INFO::
+Position 64:
+ (1) Blockchain Developer | Pedigrine | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:15:04::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:15:17::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:15:19::__main__::INFO::
+Position 65:
+ (1) Blockchain Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:15:34::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:15:44::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:15:46::__main__::INFO::
+Position 66:
+ (1) Full Stack Software Developer(Node.js, React) | Vaco | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:16:01::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:16:11::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:16:13::__main__::INFO::
+Position 67:
+ (1) 100% REMOTE- Full Stack Node.js Developer | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:16:26::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:16:44::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:16:47::__main__::INFO::
+Position 68:
+ (2) Full Stack Developer | National Processing | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:17:01::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:17:11::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:17:13::__main__::INFO::
+Position 69:
+ (2) Full Stack Engineer - JavaScript, REACT, NODE (REMOTE) | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:17:27::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:17:47::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:17:50::__main__::INFO::
+Position 70:
+ (2) Software Engineer (Fullstack) PPD | BST Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:18:04::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:18:14::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:18:16::__main__::INFO::
+Position 71:
+ (3) Back-End Engineer - REMOTE | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:18:31::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:18:41::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:18:43::__main__::INFO::
+Position 72:
+ (3) Full Stack Engineer - Remote | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:18:57::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:19:11::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:19:13::__main__::INFO::
+Position 73:
+ Back End Developer, Remote | CoreTechs Direct | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:19:27::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:19:37::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:19:39::__main__::INFO::
+Position 74:
+ Full Stack Java/React developer | Perficient | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:19:39::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/28-Dec-21 16:19:48::__main__::INFO::Lock avoided.
+./logs/28-Dec-21 16:20:08::__main__::INFO::535.0 minutes left in this search
+./logs/28-Dec-21 16:20:08::__main__::DEBUG::Sleeping for 4.7
+./logs/28-Dec-21 16:20:50::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:20:58::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:21:00::__main__::INFO::
+Position 76:
+ 100% REMOTE- Full Stack Node.js Developer | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:21:14::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:21:27::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:21:29::__main__::INFO::
+Position 77:
+ Remote Fullstack Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:21:43::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:21:53::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:21:55::__main__::INFO::
+Position 78:
+ Full Stack Java/React developer | Perficient | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:22:10::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:22:20::__main__::INFO::Could not complete submission
+./logs/28-Dec-21 16:22:22::__main__::INFO::
+Position 79:
+ Full Stack Developer 21-14532 | Genesis10 | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:22:37::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:22:54::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:22:56::__main__::INFO::
+Position 80:
+ Blockchain Developer | Storm2 | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:23:10::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:23:20::__main__::INFO::Application Submitted
+./logs/28-Dec-21 16:23:22::__main__::INFO::
+Position 81:
+ REMOTE Web Developer - WordPress - HTML, CSS, JavaScript | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/28-Dec-21 16:23:37::__main__::INFO::Clicking the EASY apply button
+./logs/28-Dec-21 16:24:18::__main__::INFO::Message: 
+Stacktrace:
+0   chromedriver                        0x00000001006f5269 __gxx_personality_v0 + 582729
+1   chromedriver                        0x0000000100680c33 __gxx_personality_v0 + 106003
+2   chromedriver                        0x000000010023de28 chromedriver + 171560
+3   chromedriver                        0x00000001002733d2 chromedriver + 390098
+4   chromedriver                        0x0000000100273591 chromedriver + 390545
+5   chromedriver                        0x00000001002a56b4 chromedriver + 595636
+6   chromedriver                        0x00000001002909fd chromedriver + 510461
+7   chromedriver                        0x00000001002a3462 chromedriver + 586850
+8   chromedriver                        0x0000000100290c23 chromedriver + 511011
+9   chromedriver                        0x000000010026675e chromedriver + 337758
+10  chromedriver                        0x0000000100267a95 chromedriver + 342677
+11  chromedriver                        0x00000001006b18ab __gxx_personality_v0 + 305803
+12  chromedriver                        0x00000001006c8863 __gxx_personality_v0 + 399939
+13  chromedriver                        0x00000001006cdc7f __gxx_personality_v0 + 421471
+14  chromedriver                        0x00000001006c9bba __gxx_personality_v0 + 404890
+15  chromedriver                        0x00000001006a5e51 __gxx_personality_v0 + 258097
+16  chromedriver                        0x00000001006e5158 __gxx_personality_v0 + 516920
+17  chromedriver                        0x00000001006e52e1 __gxx_personality_v0 + 517313
+18  chromedriver                        0x00000001006fc6f8 __gxx_personality_v0 + 612568
+19  libsystem_pthread.dylib             0x00007ff8135784f4 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81357400f thread_start + 15
+
+./logs/28-Dec-21 16:24:18::__main__::INFO::cannot apply to this job
+./logs/28-Dec-21 16:24:18::__main__::INFO::531.0 minutes left in this search
+./logs/28-Dec-21 16:24:18::__main__::DEBUG::Sleeping for 3.8
+./logs/28-Dec-21 16:24:42::__main__::INFO::531.0 minutes left in this search
+./logs/28-Dec-21 16:24:42::__main__::DEBUG::Sleeping for 4.1
+./logs/28-Dec-21 16:25:07::__main__::INFO::530.0 minutes left in this search
+./logs/28-Dec-21 16:25:07::__main__::DEBUG::Sleeping for 4.8
+./logs/28-Dec-21 16:25:32::__main__::INFO::530.0 minutes left in this search
+./logs/28-Dec-21 16:25:32::__main__::DEBUG::Sleeping for 4.7
+./logs/28-Dec-21 16:25:57::__main__::INFO::529.0 minutes left in this search
+./logs/28-Dec-21 16:25:57::__main__::DEBUG::Sleeping for 4.1
+./logs/28-Dec-21 16:26:21::__main__::INFO::529.0 minutes left in this search
+./logs/28-Dec-21 16:26:21::__main__::DEBUG::Sleeping for 4.4
+./logs/28-Dec-21 16:26:46::__main__::INFO::528.0 minutes left in this search
+./logs/28-Dec-21 16:26:46::__main__::DEBUG::Sleeping for 4.9
