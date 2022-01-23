@@ -248,6 +248,7 @@ class EasyApplyBot:
                         time.sleep(sleepTime)
 
                     # go to new page if all jobs are done
+                    
                     if count_job == len(jobIDs):
                         jobs_per_page = jobs_per_page + 25
                         count_job = 0

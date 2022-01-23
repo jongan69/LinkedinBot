@@ -1,0 +1,212 @@
+./logs/08-Jan-22 17:11:30::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf', 'Cover Letter': '/Users/jonathangan/Desktop/2022CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/08-Jan-22 17:11:30::__main__::INFO::Welcome to Easy Apply Bot
+./logs/08-Jan-22 17:11:30::__main__::INFO::current directory is : /Users/jonathangan/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/08-Jan-22 17:11:31::__main__::INFO::0 jobIDs found
+./logs/08-Jan-22 17:11:31::__main__::INFO::Logging in.....Please wait :)  
+./logs/08-Jan-22 17:11:50::__main__::INFO::Applying to Engineer: Tampa Florida
+./logs/08-Jan-22 17:11:50::__main__::INFO::Looking for jobs.. Please wait..
+./logs/08-Jan-22 17:11:55::__main__::INFO::Lock avoided.
+./logs/08-Jan-22 17:12:16::__main__::INFO::Looking for jobs.. Please wait..
+./logs/08-Jan-22 17:12:16::__main__::INFO::599.0 minutes left in this search
+./logs/08-Jan-22 17:12:16::__main__::DEBUG::Sleeping for 4.0
+./logs/08-Jan-22 17:12:40::__main__::INFO::599.0 minutes left in this search
+./logs/08-Jan-22 17:12:40::__main__::DEBUG::Sleeping for 4.6
+./logs/08-Jan-22 17:13:06::__main__::INFO::598.0 minutes left in this search
+./logs/08-Jan-22 17:13:06::__main__::DEBUG::Sleeping for 4.7
+./logs/08-Jan-22 17:13:31::__main__::INFO::598.0 minutes left in this search
+./logs/08-Jan-22 17:13:31::__main__::DEBUG::Sleeping for 4.2
+./logs/08-Jan-22 17:14:45::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:14:57::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:14:59::__main__::INFO::
+Position 1:
+ (64) Database Engineer | Belcan | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:15:13::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:15:29::__main__::INFO::Application Submitted
+./logs/08-Jan-22 17:15:32::__main__::INFO::
+Position 2:
+ (64) Software Engineer I, Blockchain (DeFi) | Rehoboth Associates | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:15:51::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:16:05::__main__::INFO::Application Submitted
+./logs/08-Jan-22 17:16:07::__main__::INFO::
+Position 3:
+ (64) Information Technology Engineer | Interactive Resources - iR | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:16:25::__main__::INFO::The button does not exist.
+./logs/08-Jan-22 17:16:25::__main__::INFO::
+Position 4:
+ (64) Software Engineer | TECHEAD | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/08-Jan-22 17:16:44::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:16:55::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:16:58::__main__::INFO::
+Position 5:
+ (64) Mobile Engineer | SafeRide Health | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:17:57::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:18:10::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:18:11::__main__::INFO::
+Position 6:
+ (64) C# Software Engineer | SMCI | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:18:27::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:18:41::__main__::INFO::Application Submitted
+./logs/08-Jan-22 17:18:43::__main__::INFO::
+Position 7:
+ (64) Security Engineer | SP6 | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:18:43::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/08-Jan-22 17:18:54::__main__::INFO::Lock avoided.
+./logs/08-Jan-22 17:19:14::__main__::INFO::592.0 minutes left in this search
+./logs/08-Jan-22 17:19:14::__main__::DEBUG::Sleeping for 3.7
+./logs/08-Jan-22 17:20:09::__main__::INFO::The button does not exist.
+./logs/08-Jan-22 17:20:09::__main__::INFO::
+Position 26:
+ (64) Software Engineer | Belcan | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/08-Jan-22 17:20:25::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:20:41::__main__::INFO::Application Submitted
+./logs/08-Jan-22 17:20:43::__main__::INFO::
+Position 27:
+ (64) Embedded Firmware Engineer | AAMP Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:20:58::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:21:16::__main__::INFO::Application Submitted
+./logs/08-Jan-22 17:21:17::__main__::INFO::
+Position 28:
+ (64) React Native Engineer | PetPocketbook | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:22:12::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:22:23::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:22:25::__main__::INFO::
+Position 29:
+ (64) Production Support Engineer | Apex Systems | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:22:42::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:22:51::__main__::INFO::Application Submitted
+./logs/08-Jan-22 17:22:53::__main__::INFO::
+Position 30:
+ (64) Software Engineer | STARLIMS | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:23:10::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:23:20::__main__::INFO::Application Submitted
+./logs/08-Jan-22 17:23:22::__main__::INFO::
+Position 31:
+ (64) Application Engineer | Advantage Industrial Automation | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:23:38::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:23:50::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:23:52::__main__::INFO::
+Position 32:
+ (64) Senior Software Engineer | FrankCrum | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:24:06::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:24:17::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:24:19::__main__::INFO::
+Position 33:
+ (64) Cloud Engineer | SMCI | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:24:38::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:24:48::__main__::INFO::Application Submitted
+./logs/08-Jan-22 17:24:50::__main__::INFO::
+Position 34:
+ (64) iOS Engineer | MyTime | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:25:10::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:25:22::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:25:24::__main__::INFO::
+Position 35:
+ (64) Consulting Systems Engineer - Media & Entertainment | World Wide Technology | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:25:43::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:26:05::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:26:07::__main__::INFO::
+Position 36:
+ (64) Senior Frontend Engineer | Brand Platform | LTK (formerly rewardStyle & LIKEtoKNOW.it) | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:26:22::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:26:30::__main__::INFO::Application Submitted
+./logs/08-Jan-22 17:26:32::__main__::INFO::
+Position 37:
+ (64) Sr Cyber Security Engineer | Ashley Furniture Industries | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:26:47::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:26:59::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:27:01::__main__::INFO::
+Position 38:
+ (64) DevOps Engineer | Telepathy Labs | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:27:17::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:27:29::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:27:30::__main__::INFO::
+Position 39:
+ (64) Senior System Software Engineer | Insight Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:27:46::__main__::INFO::Clicking the EASY apply button
+./logs/08-Jan-22 17:27:58::__main__::INFO::Could not complete submission
+./logs/08-Jan-22 17:28:00::__main__::INFO::
+Position 40:
+ (64) Telecommunications Engineer | SRI Tech Solutions Inc. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/08-Jan-22 17:28:00::__main__::INFO::********count_application: 20************
+
+
+                                    Time for a nap - see you in: 12 min
+                                ****************************************
+
+
+./logs/08-Jan-22 17:40:47::__main__::INFO::The button does not exist.
+./logs/08-Jan-22 17:40:47::__main__::INFO::
+Position 41:
+ (64) Assistant Building Engineer | Hays | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/08-Jan-22 17:40:47::__main__::INFO::********count_application: 20************
+
+
+                                    Time for a nap - see you in: 13 min
+                                ****************************************
+
+
+./logs/08-Jan-22 17:54:14::__main__::INFO::The button does not exist.
+./logs/08-Jan-22 17:54:14::__main__::INFO::
+Position 42:
+ (66) Senior Full Stack Engineer | HuntSource | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/08-Jan-22 17:54:14::__main__::INFO::********count_application: 20************
+
+
+                                    Time for a nap - see you in: 13 min
+                                ****************************************
+
+
