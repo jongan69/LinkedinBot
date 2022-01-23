@@ -1,8 +1,7 @@
 # Linkedin EasyApply Bot
-Automate the application process on LinkedIn
+Automate the application process on LinkedIn using Python and Selenium / Chrome Driver
 
-Medium Write-up: https://medium.com/xplor8/how-to-apply-for-1-000-jobs-while-you-are-sleeping-da27edc3b703
-Video: https://www.youtube.com/watch?v=4R4E304fEAs
+MUST HAVE CHROME INSTALLED
 
 ## Setup 
 
