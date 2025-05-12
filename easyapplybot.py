@@ -218,7 +218,11 @@ class EasyApplyBot:
         log.info("Looking for jobs.. Please wait..")
 
         self.browser.set_window_position(0, 0)
-        self.browser.maximize_window()
+        # Remove or wrap maximize_window for headless compatibility
+        try:
+            self.browser.maximize_window()
+        except Exception as e:
+            log.info(f"Could not maximize window: {e}")
         self.browser, _ = self.next_jobs_page(position, location, jobs_per_page)
         log.info("Looking for jobs.. Please wait..")
 
