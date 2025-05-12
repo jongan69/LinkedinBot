@@ -13,9 +13,6 @@ pip3 install -r requirements.txt
 Enter your username, password, and search settings into the `config.yaml` file
 
 ```yaml
-username: # Insert your username here
-password: # Insert your password here
-
 positions:
 - # positions you want to search for
 - # Another position you want to search for
