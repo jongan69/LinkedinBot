@@ -1,0 +1,70 @@
+./logs/12-May-25 18:47:37::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', 'Frontend Engineer', 'Backend Engineer', 'Rust Engineer', 'Solana Engineer', 'Full Stack Engineer', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 18:47:37::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 18:47:37::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 18:47:37::__main__::INFO::3 jobIDs found
+./logs/12-May-25 18:47:39::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 18:47:57::__main__::INFO::Applying to Junior Software Developer: Boca Raton Florida
+./logs/12-May-25 18:47:57::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 18:48:03::__main__::INFO::Lock avoided.
+./logs/12-May-25 18:48:23::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 18:48:23::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 18:48:23::__main__::DEBUG::Sleeping for 4.3
+./logs/12-May-25 18:49:04::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 18:49:22::__main__::INFO::Application Submitted
+./logs/12-May-25 18:49:24::__main__::INFO::
+Position 1:
+ (25) React Typescript Frontend Engineer | ASK Consulting | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 18:49:39::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 18:50:24::__main__::INFO::Application Submitted
+./logs/12-May-25 18:50:26::__main__::INFO::
+Position 2:
+ (25) Senior Full Stack Engineer, Valuetainment | Valuetainment | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 18:50:42::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 18:51:05::__main__::INFO::Application Submitted
+./logs/12-May-25 18:51:07::__main__::INFO::
+Position 3:
+ (25) Full Stack Engineer | Primis | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 18:51:23::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 18:51:40::__main__::INFO::Application Submitted
+./logs/12-May-25 18:51:42::__main__::INFO::
+Position 4:
+ (25) Full Stack Engineer | ASK Consulting | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 18:51:58::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 18:52:21::__main__::INFO::Application Submitted
+./logs/12-May-25 18:52:23::__main__::INFO::
+Position 5:
+ (25) Senior Web Developer | Seneca Resources | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 18:52:38::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 18:53:13::__main__::INFO::Application Submitted
+./logs/12-May-25 18:53:15::__main__::INFO::
+Position 6:
+ (25) Full Stack Engineer | Odin AI | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 18:53:30::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 18:53:46::__main__::INFO::Application Submitted
+./logs/12-May-25 18:53:48::__main__::INFO::
+Position 7:
+ (25) Senior Full-Stack Engineer (NodeJS/Angular) | Kforce Inc | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 18:53:48::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/12-May-25 18:53:55::__main__::INFO::Lock avoided.
+./logs/12-May-25 18:54:16::__main__::INFO::593.0 minutes left in this search
+./logs/12-May-25 18:54:16::__main__::DEBUG::Sleeping for 4.3

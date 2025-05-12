@@ -1,0 +1,206 @@
+./logs/12-May-25 18:57:40::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', 'Frontend Engineer', 'Backend Engineer', 'Rust Engineer', 'Solana Engineer', 'Full Stack Engineer', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 18:57:40::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 18:57:40::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 18:57:40::__main__::INFO::10 jobIDs found
+./logs/12-May-25 18:57:48::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 18:58:08::__main__::INFO::Applying to SaaS Intern: Lake Worth Florida
+./logs/12-May-25 18:58:08::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 18:58:14::__main__::INFO::Lock avoided.
+./logs/12-May-25 18:58:34::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 18:58:34::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 18:58:34::__main__::DEBUG::Sleeping for 4.4
+./logs/12-May-25 18:59:16::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 18:59:31::__main__::INFO::Application Submitted
+./logs/12-May-25 18:59:33::__main__::INFO::
+Position 1:
+ (25) Software Engineer- React/Typescript | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 18:59:48::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:00:17::__main__::INFO::Application Submitted
+./logs/12-May-25 19:00:18::__main__::INFO::
+Position 2:
+ (25) Specialty Developer | Westinghouse Electric Company | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:00:34::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:00:50::__main__::INFO::Application Submitted
+./logs/12-May-25 19:00:52::__main__::INFO::
+Position 3:
+ (25) Technical Product Marketer (AI Engineer Ecosystem & Growth) | AIxBlock | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:01:07::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:01:28::__main__::INFO::Application Submitted
+./logs/12-May-25 19:01:29::__main__::INFO::
+Position 4:
+ (25) Account Executive (Entry Level) | Jeffrey Agency | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:01:45::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:02:10::__main__::INFO::Application Submitted
+./logs/12-May-25 19:02:12::__main__::INFO::
+Position 5:
+ (25) AI Workflow Development | OBR Partners LLC | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:02:28::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:02:52::__main__::INFO::Application Submitted
+./logs/12-May-25 19:02:54::__main__::INFO::
+Position 6:
+ (25) React Native Developer | Kodeva LLC | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:03:10::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:03:28::__main__::INFO::Application Submitted
+./logs/12-May-25 19:03:29::__main__::INFO::
+Position 7:
+ (25) Senior Full‑Stack Software Engineer (NodeJS/TypeScript/AI) | House Numbers | $399 Mortgage Loan Processing | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:03:29::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/12-May-25 19:03:37::__main__::INFO::Lock avoided.
+./logs/12-May-25 19:03:57::__main__::INFO::594.0 minutes left in this search
+./logs/12-May-25 19:03:57::__main__::DEBUG::Sleeping for 4.5
+./logs/12-May-25 19:04:39::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:05:10::__main__::INFO::Application Submitted
+./logs/12-May-25 19:05:12::__main__::INFO::
+Position 26:
+ (25) Ataccama Engineer | Mastech Digital | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:05:27::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:06:42::__main__::INFO::Application Submitted
+./logs/12-May-25 19:06:44::__main__::INFO::
+Position 27:
+ (25) Intern | The Lantern Network | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:06:59::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:07:26::__main__::INFO::Application Submitted
+./logs/12-May-25 19:07:28::__main__::INFO::
+Position 28:
+ (25) AWS Solution Architect | Yochana | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:07:44::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:08:56::__main__::INFO::Application Submitted
+./logs/12-May-25 19:08:58::__main__::INFO::
+Position 29:
+ (25) Specialty Developer | Hydrogen Group | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:09:12::__main__::INFO::The button does not exist.
+./logs/12-May-25 19:09:12::__main__::INFO::
+Position 30:
+ (25) Sales-CX AI Intern | Customer Echoes, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/12-May-25 19:09:26::__main__::INFO::The button does not exist.
+./logs/12-May-25 19:09:26::__main__::INFO::
+Position 31:
+ (25) Partnerships Manager (TikTok Shop) | Dimond Connect | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/12-May-25 19:09:42::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:11:30::__main__::INFO::Application Submitted
+./logs/12-May-25 19:11:32::__main__::INFO::
+Position 32:
+ (25) Quality Reviewer – Remote Position (Part Time) | EXL | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:11:32::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/12-May-25 19:11:40::__main__::INFO::Lock avoided.
+./logs/12-May-25 19:12:00::__main__::INFO::586.0 minutes left in this search
+./logs/12-May-25 19:12:00::__main__::DEBUG::Sleeping for 4.3
+./logs/12-May-25 19:12:42::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:13:06::__main__::INFO::Application Submitted
+./logs/12-May-25 19:13:08::__main__::INFO::
+Position 51:
+ (25) Marketing & Content Creation Intern | Novelty | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:13:23::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:14:27::__main__::INFO::Application Submitted
+./logs/12-May-25 19:14:29::__main__::INFO::
+Position 52:
+ (25) Sales Representative | Vertigo Real Estate Ventures LLC | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:14:45::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:14:55::__main__::INFO::Message: element click intercepted: Element <button aria-label="Continue to next step" id="ember274" class="artdeco-button artdeco-button--2 artdeco-button--primary ember-view" data-easy-apply-next-button="" data-live-test-easy-apply-next-button="" type="button">...</button> is not clickable at point (1169, 743). Other element would receive the click: <div class="search-typeahead-v2__hit search-typeahead-v2__hit--autocomplete" data-test-single-typeahead-entity-form-search-result="true">...</div>
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+0   undetected_chromedriver             0x00000001053ee8b8 undetected_chromedriver + 5986488
+1   undetected_chromedriver             0x00000001053e59ea undetected_chromedriver + 5949930
+2   undetected_chromedriver             0x0000000104e9e600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x0000000104ef71b0 undetected_chromedriver + 778672
+4   undetected_chromedriver             0x0000000104ef5011 undetected_chromedriver + 770065
+5   undetected_chromedriver             0x0000000104ef26a2 undetected_chromedriver + 759458
+6   undetected_chromedriver             0x0000000104ef1d6e undetected_chromedriver + 757102
+7   undetected_chromedriver             0x0000000104ee442d undetected_chromedriver + 701485
+8   undetected_chromedriver             0x0000000104f16312 undetected_chromedriver + 906002
+9   undetected_chromedriver             0x0000000104ee3da8 undetected_chromedriver + 699816
+10  undetected_chromedriver             0x0000000104f164ce undetected_chromedriver + 906446
+11  undetected_chromedriver             0x0000000104f3d566 undetected_chromedriver + 1066342
+12  undetected_chromedriver             0x0000000104f160e3 undetected_chromedriver + 905443
+13  undetected_chromedriver             0x0000000104ee261d undetected_chromedriver + 693789
+14  undetected_chromedriver             0x0000000104ee3281 undetected_chromedriver + 696961
+15  undetected_chromedriver             0x00000001053ac580 undetected_chromedriver + 5715328
+16  undetected_chromedriver             0x00000001053b0445 undetected_chromedriver + 5731397
+17  undetected_chromedriver             0x0000000105386ed0 undetected_chromedriver + 5562064
+18  undetected_chromedriver             0x00000001053b0e7b undetected_chromedriver + 5734011
+19  undetected_chromedriver             0x0000000105375de4 undetected_chromedriver + 5492196
+20  undetected_chromedriver             0x00000001053d3a98 undetected_chromedriver + 5876376
+21  undetected_chromedriver             0x00000001053d3c60 undetected_chromedriver + 5876832
+22  undetected_chromedriver             0x00000001053e55b1 undetected_chromedriver + 5948849
+23  libsystem_pthread.dylib             0x00007ff806f26df1 _pthread_start + 99
+24  libsystem_pthread.dylib             0x00007ff806f22857 thread_start + 15
+
+./logs/12-May-25 19:14:55::__main__::INFO::cannot apply to this job
+./logs/12-May-25 19:14:55::__main__::INFO::Message: element click intercepted: Element <button aria-label="Continue to next step" id="ember274" class="artdeco-button artdeco-button--2 artdeco-button--primary ember-view" data-easy-apply-next-button="" data-live-test-easy-apply-next-button="" type="button">...</button> is not clickable at point (1169, 743). Other element would receive the click: <div class="search-typeahead-v2__hit search-typeahead-v2__hit--autocomplete" data-test-single-typeahead-entity-form-search-result="true">...</div>
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+0   undetected_chromedriver             0x00000001053ee8b8 undetected_chromedriver + 5986488
+1   undetected_chromedriver             0x00000001053e59ea undetected_chromedriver + 5949930
+2   undetected_chromedriver             0x0000000104e9e600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x0000000104ef71b0 undetected_chromedriver + 778672
+4   undetected_chromedriver             0x0000000104ef5011 undetected_chromedriver + 770065
+5   undetected_chromedriver             0x0000000104ef26a2 undetected_chromedriver + 759458
+6   undetected_chromedriver             0x0000000104ef1d6e undetected_chromedriver + 757102
+7   undetected_chromedriver             0x0000000104ee442d undetected_chromedriver + 701485
+8   undetected_chromedriver             0x0000000104f16312 undetected_chromedriver + 906002
+9   undetected_chromedriver             0x0000000104ee3da8 undetected_chromedriver + 699816
+10  undetected_chromedriver             0x0000000104f164ce undetected_chromedriver + 906446
+11  undetected_chromedriver             0x0000000104f3d566 undetected_chromedriver + 1066342
+12  undetected_chromedriver             0x0000000104f160e3 undetected_chromedriver + 905443
+13  undetected_chromedriver             0x0000000104ee261d undetected_chromedriver + 693789
+14  undetected_chromedriver             0x0000000104ee3281 undetected_chromedriver + 696961
+15  undetected_chromedriver             0x00000001053ac580 undetected_chromedriver + 5715328
+16  undetected_chromedriver             0x00000001053b0445 undetected_chromedriver + 5731397
+17  undetected_chromedriver             0x0000000105386ed0 undetected_chromedriver + 5562064
+18  undetected_chromedriver             0x00000001053b0e7b undetected_chromedriver + 5734011
+19  undetected_chromedriver             0x0000000105375de4 undetected_chromedriver + 5492196
+20  undetected_chromedriver             0x00000001053d3a98 undetected_chromedriver + 5876376
+21  undetected_chromedriver             0x00000001053d3c60 undetected_chromedriver + 5876832
+22  undetected_chromedriver             0x00000001053e55b1 undetected_chromedriver + 5948849
+23  libsystem_pthread.dylib             0x00007ff806f26df1 _pthread_start + 99
+24  libsystem_pthread.dylib             0x00007ff806f22857 thread_start + 15
+
+./logs/12-May-25 19:14:55::__main__::INFO::583.0 minutes left in this search
+./logs/12-May-25 19:14:55::__main__::DEBUG::Sleeping for 4.4
+./logs/12-May-25 19:15:21::__main__::INFO::Applying to Data Scientist: Palm Beach Gardens Florida
+./logs/12-May-25 19:15:21::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 19:15:26::__main__::INFO::Lock avoided.

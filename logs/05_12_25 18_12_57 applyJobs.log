@@ -1,0 +1,33 @@
+./logs/12-May-25 18:12:57::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 18:12:57::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 18:12:57::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 18:12:57::__main__::INFO::0 jobIDs found
+./logs/12-May-25 18:12:59::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 18:13:17::__main__::INFO::Applying to Data Scientist: Tampa Florida
+./logs/12-May-25 18:13:17::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 18:13:23::__main__::INFO::Lock avoided.
+./logs/12-May-25 18:13:43::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 18:13:43::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 18:13:43::__main__::DEBUG::Sleeping for 4.8
+./logs/12-May-25 18:14:08::__main__::INFO::Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100e5c3bc cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x0000000100e54684 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100991fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x00000001009d91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100a1a044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x00000001009cd3f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000100e207e0 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000100e23ab0 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000100e01db4 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x0000000100e24328 cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000100df3640 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x0000000100e4428c cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x0000000100e44418 cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x0000000100e542d0 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000018b056c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018b051b80 thread_start + 8
+
+./logs/12-May-25 18:14:08::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 18:14:08::__main__::DEBUG::Sleeping for 3.8

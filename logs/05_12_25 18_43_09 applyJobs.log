@@ -1,0 +1,57 @@
+./logs/12-May-25 18:43:09::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 18:43:09::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 18:43:09::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 18:43:09::__main__::INFO::3 jobIDs found
+./logs/12-May-25 18:43:12::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 18:43:29::__main__::INFO::Applying to Junior Software Developer: Tampa Florida
+./logs/12-May-25 18:43:29::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 18:43:34::__main__::INFO::Lock avoided.
+./logs/12-May-25 18:43:55::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 18:43:55::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 18:43:55::__main__::DEBUG::Sleeping for 3.6
+./logs/12-May-25 18:44:36::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 18:44:42::__main__::INFO::Message: no such element: Unable to locate element: {"method":"xpath","selector":"preceding-sibling::*"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102b383bc cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x0000000102b30684 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010266dfbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x00000001026b51bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x00000001026aa9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x00000001026f6044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x00000001026a93f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000102afc7e0 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000102affab0 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x0000000102adddb4 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x0000000102b00328 cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x0000000102acf640 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x0000000102b2028c cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x0000000102b20418 cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x0000000102b302d0 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000018b056c0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b051b80 thread_start + 8
+
+./logs/12-May-25 18:44:42::__main__::INFO::cannot apply to this job
+./logs/12-May-25 18:44:42::__main__::INFO::Message: no such element: Unable to locate element: {"method":"xpath","selector":"preceding-sibling::*"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102b383bc cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x0000000102b30684 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010266dfbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x00000001026b51bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x00000001026aa9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x00000001026f6044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x00000001026a93f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000102afc7e0 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000102affab0 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x0000000102adddb4 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x0000000102b00328 cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x0000000102acf640 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x0000000102b2028c cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x0000000102b20418 cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x0000000102b302d0 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000018b056c0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b051b80 thread_start + 8
+
+./logs/12-May-25 18:44:42::__main__::INFO::598.0 minutes left in this search
+./logs/12-May-25 18:44:42::__main__::DEBUG::Sleeping for 4.1

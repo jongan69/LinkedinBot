@@ -1,0 +1,5 @@
+./logs/12-May-25 18:11:05::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Tampa Florida', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 18:11:05::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 18:11:05::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 18:11:05::__main__::INFO::0 jobIDs found
+./logs/12-May-25 18:11:09::__main__::INFO::Logging in.....Please wait :)  

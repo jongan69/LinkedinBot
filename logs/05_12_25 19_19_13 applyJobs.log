@@ -1,0 +1,48 @@
+./logs/12-May-25 19:19:13::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', 'Frontend Engineer', 'Backend Engineer', 'Rust Engineer', 'Solana Engineer', 'Full Stack Engineer', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 19:19:13::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 19:19:13::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 19:19:13::__main__::INFO::Please wait while we prepare the bot for you
+./logs/12-May-25 19:19:13::__main__::INFO::26 jobIDs found
+./logs/12-May-25 19:19:20::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 19:19:38::__main__::INFO::Bot initialization complete.
+./logs/12-May-25 19:19:38::__main__::INFO::Applying to Full Stack Engineer: Los Angeles California
+./logs/12-May-25 19:19:38::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 19:19:44::__main__::INFO::Lock avoided.
+./logs/12-May-25 19:20:04::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 19:20:04::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 19:20:04::__main__::DEBUG::Sleeping for 4.2
+./logs/12-May-25 19:20:46::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:21:15::__main__::INFO::Application Submitted
+./logs/12-May-25 19:21:17::__main__::INFO::
+Position 1:
+ (25) Full Stack Web Applications System Engineer | Harnham | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:21:33::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:21:55::__main__::INFO::Application Submitted
+./logs/12-May-25 19:21:58::__main__::INFO::
+Position 2:
+ (25) Full Stack Engineer | Motion Recruitment | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:22:13::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:22:59::__main__::INFO::Application Submitted
+./logs/12-May-25 19:23:01::__main__::INFO::
+Position 3:
+ (25) Full Stack Engineer | Insight Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:23:17::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:23:30::__main__::INFO::Application Submitted
+./logs/12-May-25 19:23:32::__main__::INFO::
+Position 4:
+ (25) Full Stack Engineer - TypeScript, React, Node | CyberCoders | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 19:23:47::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 19:24:06::__main__::INFO::Application Submitted
+./logs/12-May-25 19:24:08::__main__::INFO::
+Position 5:
+ (25) Senior Full Stack Engineer | TALENT Software Services | LinkedIn 
+ * has Easy Apply Button 
+

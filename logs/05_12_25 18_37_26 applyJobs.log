@@ -1,0 +1,88 @@
+./logs/12-May-25 18:37:26::__main__::INFO::{'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 18:37:26::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 18:37:26::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 18:37:26::__main__::INFO::3 jobIDs found
+./logs/12-May-25 18:37:28::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 18:37:46::__main__::INFO::Applying to Engineer: Sarasota Florida
+./logs/12-May-25 18:37:46::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 18:37:52::__main__::INFO::Lock avoided.
+./logs/12-May-25 18:38:12::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 18:38:12::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 18:38:12::__main__::DEBUG::Sleeping for 4.2
+./logs/12-May-25 18:38:59::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 18:39:00::__main__::INFO::Message: element click intercepted: Element <button aria-label="Easy Apply to Full Stack Engineer at Motion Recruitment" id="jobs-apply-button-id" class="jobs-apply-button
+         artdeco-button artdeco-button--3 artdeco-button--primary ember-view" data-job-id="4228539367" data-live-test-job-apply-button="">...</button> is not clickable at point (385, 19). Other element would receive the click: <input class="basic-input search-global-typeahead__input search-global-typeahead__input--nile-background
+            search-global-typeahead__input--ellipsis
+            
+            
+            " placeholder="Search" dir="auto" role="combobox" aria-autocomplete="list" aria-label="Search" data-view-name="search-global-typeahead-input" aria-activedescendant="" aria-expanded="false" type="text">
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+0   chromedriver                        0x0000000104ec03bc cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x0000000104eb8684 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x00000001049f5fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104a42d20 cxxbridge1$string$len + 404864
+4   chromedriver                        0x0000000104a4128c cxxbridge1$string$len + 398060
+5   chromedriver                        0x0000000104a3f0a0 cxxbridge1$string$len + 389376
+6   chromedriver                        0x0000000104a3e49c cxxbridge1$string$len + 386300
+7   chromedriver                        0x0000000104a32f14 cxxbridge1$string$len + 339828
+8   chromedriver                        0x0000000104a329a0 cxxbridge1$string$len + 338432
+9   chromedriver                        0x0000000104a7e044 cxxbridge1$string$len + 647332
+10  chromedriver                        0x0000000104a313f8 cxxbridge1$string$len + 332888
+11  chromedriver                        0x0000000104e847e0 cxxbridge1$str$ptr + 2585200
+12  chromedriver                        0x0000000104e87ab0 cxxbridge1$str$ptr + 2598208
+13  chromedriver                        0x0000000104e65db4 cxxbridge1$str$ptr + 2459716
+14  chromedriver                        0x0000000104e88328 cxxbridge1$str$ptr + 2600376
+15  chromedriver                        0x0000000104e57640 cxxbridge1$str$ptr + 2400464
+16  chromedriver                        0x0000000104ea828c cxxbridge1$str$ptr + 2731292
+17  chromedriver                        0x0000000104ea8418 cxxbridge1$str$ptr + 2731688
+18  chromedriver                        0x0000000104eb82d0 cxxbridge1$str$ptr + 2796896
+19  libsystem_pthread.dylib             0x000000018b056c0c _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018b051b80 thread_start + 8
+
+./logs/12-May-25 18:39:00::__main__::INFO::598.0 minutes left in this search
+./logs/12-May-25 18:39:00::__main__::DEBUG::Sleeping for 4.4
+./logs/12-May-25 18:39:25::__main__::INFO::Message: no such element: Unable to locate element: {"method":"css selector","selector":".job-card-list"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104ec03bc cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x0000000104eb8684 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x00000001049f5fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104a3d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104a7e044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x0000000104a313f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000104e847e0 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000104e87ab0 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000104e65db4 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x0000000104e88328 cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000104e57640 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x0000000104ea828c cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x0000000104ea8418 cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x0000000104eb82d0 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000018b056c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018b051b80 thread_start + 8
+
+./logs/12-May-25 18:39:25::__main__::INFO::598.0 minutes left in this search
+./logs/12-May-25 18:39:25::__main__::DEBUG::Sleeping for 4.6
+./logs/12-May-25 18:39:50::__main__::INFO::Message: no such element: Unable to locate element: {"method":"css selector","selector":".job-card-list"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104ec03bc cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x0000000104eb8684 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x00000001049f5fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104a3d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104a7e044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x0000000104a313f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000104e847e0 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000104e87ab0 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000104e65db4 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x0000000104e88328 cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000104e57640 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x0000000104ea828c cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x0000000104ea8418 cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x0000000104eb82d0 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000018b056c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018b051b80 thread_start + 8
+
+./logs/12-May-25 18:39:50::__main__::INFO::597.0 minutes left in this search
+./logs/12-May-25 18:39:50::__main__::DEBUG::Sleeping for 4.3

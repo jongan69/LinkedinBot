@@ -1,6 +1,3 @@
-username: 
-password: 
-
 positions:
 - Data Scientist
 - Software Engineer
@@ -11,18 +8,45 @@ positions:
 - Blockchain Developer
 - Engineer
 - Full Stack
+- Frontend Engineer
+- Backend Engineer
+- Rust Engineer
+- Solana Engineer
+- Full Stack Engineer
 - # Another position you want to search for
 - # A third position you want to search for
 
 locations:
 - Remote
+- Miami Beach Florida
+- Miami Florida
+- Fort Lauderdale Florida
+- West Palm Beach Florida
+- Boca Raton Florida
+- Delray Beach Florida
+- Boynton Beach Florida
+- Lake Worth Florida
+- Palm Beach Gardens Florida
+- Orlando Florida
 - Tampa Florida
+- St. Petersburg Florida
+- Clearwater Florida
+- Sarasota Florida
+- Naples Florida
+- Fort Myers Florida
+- New York City New York
+- San Francisco California
+- Los Angeles California
+- Chicago Illinois
+- Boston Massachusetts
+- Seattle Washington
+- Austin Texas
 - # A second location you want to search in 
 
 # --------- Optional Parameters -------
 # uploads:
-Resume: /Users/jonathangan/Desktop/Jons-Computer-Engineering-Resume.pdf 
-Cover Letter: /Users/jonathangan/Desktop/2022CoverLetter.pdf
+Resume: /Users/jonathangan/Desktop/Personal/Resume-Revison.docx
+Cover Letter: /Users/jonathangan/Desktop/Personal/CoverLetter.pdf
 Photo: /Users/jonathangan/Desktop/profilepic.jpg
 
 
