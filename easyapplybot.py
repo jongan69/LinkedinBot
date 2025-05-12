@@ -1,17 +1,13 @@
-import time, random, os, csv, platform
+import time, random, os, csv
 import logging
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import pandas as pd
-import pyautogui
-
-from urllib.request import urlopen
 import re
 import yaml
 from datetime import datetime, timedelta
@@ -466,14 +462,12 @@ class EasyApplyBot:
         # Append question and answer to the CSV if new
         if question not in self.answers:
             self.answers[question] = answer
-            import pandas as pd
             new_data = pd.DataFrame({"Question": [question], "Answer": [answer]})
             new_data.to_csv(self.qa_file, mode='a', header=False, index=False, encoding='utf-8')
             log.info(f"Appended to QA file: '{question}' with answer: '{answer}'.")
         return answer
 
     def process_questions(self) -> None:
-        import time
         fields = self.get_elements('fields')
         for field in fields:
             question = field.text
@@ -628,15 +622,15 @@ class EasyApplyBot:
         return page
 
     def avoid_lock(self) -> None:
-        print("[DEBUG] Moving mouse and pressing keys to avoid lock")
-        x, _ = pyautogui.position()
-        pyautogui.moveTo(x + 200, pyautogui.position().y, duration=1.0)
-        pyautogui.moveTo(x, pyautogui.position().y, duration=0.5)
-        pyautogui.keyDown('ctrl')
-        pyautogui.press('esc')
-        pyautogui.keyUp('ctrl')
-        time.sleep(0.5)
-        pyautogui.press('esc')
+        print("[DEBUG] Simulating activity to avoid lock")
+        # Scroll up and down to simulate activity in the browser
+        try:
+            self.browser.execute_script("window.scrollBy(0, 100);")
+            time.sleep(0.5)
+            self.browser.execute_script("window.scrollBy(0, -100);")
+            time.sleep(0.5)
+        except Exception as e:
+            log.info(f"avoid_lock simulation failed: {e}")
 
     def next_jobs_page(self, position: str, location: str, jobs_per_page: int) -> tuple:
         print(f"[DEBUG] Navigating to next jobs page: position={position}, location={location}, jobs_per_page={jobs_per_page}")

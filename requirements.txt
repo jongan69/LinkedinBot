@@ -5,3 +5,5 @@ pyautogui
 webdriver_manager
 PyYAML
 lxml
+undetected-chromedriver
+python-dotenv
