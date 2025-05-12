@@ -114,7 +114,17 @@ class EasyApplyBot:
         self.appliedJobIDs: list = past_ids if past_ids is not None else []
         self.options = self.browser_options()
         self.browser = uc.Chrome(options=self.options)
-        self.browser.fullscreen_window()
+        # Remove or wrap window management for headless compatibility
+        try:
+            self.browser.fullscreen_window()
+        except Exception as e:
+            log.info(f"Could not fullscreen window: {e}")
+        self.browser.set_window_position(0, 0)
+        # Remove or wrap maximize_window for headless compatibility
+        try:
+            self.browser.maximize_window()
+        except Exception as e:
+            log.info(f"Could not maximize window: {e}")
         self.wait = WebDriverWait(self.browser, 30)
         self.start_linkedin(self.username, self.password)
         time.sleep(5)
@@ -148,10 +158,9 @@ class EasyApplyBot:
         options.add_argument("--ignore-certificate-errors")
         options.add_argument('--no-sandbox')
         options.add_argument("--disable-extensions")
-
-        # Disable webdriver flags or you will be easily detectable
         options.add_argument("--disable-blink-features")
         options.add_argument("--disable-blink-features=AutomationControlled")
+        options.add_argument("--window-size=1920,1080")  # Set window size for headless
         print("[DEBUG] Browser options set")
         return options
 
