@@ -1,0 +1,374 @@
+./logs/12-May-25 21:20:35::__main__::INFO::{'headless': False, 'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', 'Frontend Engineer', 'Backend Engineer', 'Rust Engineer', 'Solana Engineer', 'Full Stack Engineer', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 21:20:35::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 21:20:35::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 21:20:35::__main__::INFO::Please wait while we prepare the bot for you
+./logs/12-May-25 21:20:35::__main__::INFO::83 jobIDs found
+./logs/12-May-25 21:20:43::__main__::INFO::Could not maximize window: Message: unknown error: JavaScript code failed
+from unknown command: 'Runtime.evaluate' wasn't found
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+0   undetected_chromedriver             0x00000001013548b8 undetected_chromedriver + 5986488
+1   undetected_chromedriver             0x000000010134b9ea undetected_chromedriver + 5949930
+2   undetected_chromedriver             0x0000000100e04600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x0000000100deb492 undetected_chromedriver + 312466
+4   undetected_chromedriver             0x0000000100de9e98 undetected_chromedriver + 306840
+5   undetected_chromedriver             0x0000000100dea5ff undetected_chromedriver + 308735
+6   undetected_chromedriver             0x0000000100e18b04 undetected_chromedriver + 498436
+7   undetected_chromedriver             0x0000000100e0d891 undetected_chromedriver + 452753
+8   undetected_chromedriver             0x0000000100e0d788 undetected_chromedriver + 452488
+9   undetected_chromedriver             0x0000000100ddc346 undetected_chromedriver + 250694
+10  undetected_chromedriver             0x0000000100dda7ce undetected_chromedriver + 243662
+11  undetected_chromedriver             0x0000000100eb83d7 undetected_chromedriver + 1151959
+12  undetected_chromedriver             0x0000000100e7c312 undetected_chromedriver + 906002
+13  undetected_chromedriver             0x0000000100ea3566 undetected_chromedriver + 1066342
+14  undetected_chromedriver             0x0000000100e7c0e3 undetected_chromedriver + 905443
+15  undetected_chromedriver             0x0000000100e4861d undetected_chromedriver + 693789
+16  undetected_chromedriver             0x0000000100e49281 undetected_chromedriver + 696961
+17  undetected_chromedriver             0x0000000101312580 undetected_chromedriver + 5715328
+18  undetected_chromedriver             0x0000000101316445 undetected_chromedriver + 5731397
+19  undetected_chromedriver             0x00000001012eced0 undetected_chromedriver + 5562064
+20  undetected_chromedriver             0x0000000101316e7b undetected_chromedriver + 5734011
+21  undetected_chromedriver             0x00000001012dbde4 undetected_chromedriver + 5492196
+22  undetected_chromedriver             0x0000000101339a98 undetected_chromedriver + 5876376
+23  undetected_chromedriver             0x0000000101339c60 undetected_chromedriver + 5876832
+24  undetected_chromedriver             0x000000010134b5b1 undetected_chromedriver + 5948849
+25  libsystem_pthread.dylib             0x00007ff806f26df1 _pthread_start + 99
+26  libsystem_pthread.dylib             0x00007ff806f22857 thread_start + 15
+
+./logs/12-May-25 21:20:43::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 21:20:58::__main__::INFO::Bot initialization complete.
+./logs/12-May-25 21:21:02::__main__::INFO::Applying to SaaS Intern: Austin Texas
+./logs/12-May-25 21:21:02::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 21:21:05::__main__::INFO::Lock avoided.
+./logs/12-May-25 21:21:25::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 21:21:25::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 21:21:25::__main__::DEBUG::Sleeping for 3.7
+./logs/12-May-25 21:22:06::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:22:11::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:22:13::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:22:19::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:22:21::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:22:22::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:22:25::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:22:27::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:22:31::__main__::INFO::Application Submitted
+./logs/12-May-25 21:22:33::__main__::INFO::
+Position 1:
+ (25) Business Development Representative | Kayana | Ordering and Payment’s Solutions | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:22:47::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:22:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:22:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:23:01::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:23:03::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:23:07::__main__::INFO::Application Submitted
+./logs/12-May-25 21:23:09::__main__::INFO::
+Position 2:
+ (25) Outbound Business Development Rep | Russell Tobin | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:23:23::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:23:29::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:23:30::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:23:37::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:23:39::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:23:41::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:23:43::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:23:47::__main__::INFO::Application Submitted
+./logs/12-May-25 21:23:49::__main__::INFO::
+Position 3:
+ (25) Full Stack Engineer | Mentium.io | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:23:49::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/12-May-25 21:23:52::__main__::INFO::Lock avoided.
+./logs/12-May-25 21:24:13::__main__::INFO::596.0 minutes left in this search
+./logs/12-May-25 21:24:13::__main__::DEBUG::Sleeping for 3.6
+./logs/12-May-25 21:24:53::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:24:57::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:25:00::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:25:06::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:25:08::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:25:10::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:25:12::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:25:17::__main__::INFO::Application Submitted
+./logs/12-May-25 21:25:19::__main__::INFO::
+Position 26:
+ (25) Product Manager or E-Discovery Analyst | Aklip Technologies | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:25:33::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:25:38::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:25:40::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:25:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:25:50::__main__::INFO::Application Submitted
+./logs/12-May-25 21:25:52::__main__::INFO::
+Position 27:
+ (25) Senior Sales Consultant | Linnk Group | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:26:07::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:26:12::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:26:20::__main__::INFO::Application Submitted
+./logs/12-May-25 21:26:22::__main__::INFO::
+Position 28:
+ (25) Builder | The GenAI Collective | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:26:37::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:26:42::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:26:45::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:26:51::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:26:53::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:26:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:26:57::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:26:59::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:27:01::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:27:03::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:27:06::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:27:08::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:27:11::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:27:15::__main__::INFO::Application Submitted
+./logs/12-May-25 21:27:17::__main__::INFO::
+Position 29:
+ (25) Unreal Engine Software QA (iOS) Intern | Escape™ App AI | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:27:32::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:27:37::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:27:39::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:27:45::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:27:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:27:51::__main__::INFO::Application Submitted
+./logs/12-May-25 21:27:53::__main__::INFO::
+Position 30:
+ (25) Business Development Representative (BDR) | EverestLabs.AI | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:28:08::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:28:12::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:28:15::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:28:21::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:28:23::__main__::INFO::Application Submitted
+./logs/12-May-25 21:28:25::__main__::INFO::
+Position 31:
+ (25) UI Engineer | INSPYR Solutions | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:28:39::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:28:44::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:28:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:28:51::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:28:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:28:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:28:56::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:28:58::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:00::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:02::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:05::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:07::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:09::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:12::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:14::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:15::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:18::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:20::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:22::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:24::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:27::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:29::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:31::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:33::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:35::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:29:40::__main__::INFO::Application Submitted
+./logs/12-May-25 21:29:42::__main__::INFO::
+Position 32:
+ (25) Business Sales Representative | Hammer Media | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:29:42::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/12-May-25 21:29:46::__main__::INFO::Lock avoided.
+./logs/12-May-25 21:30:06::__main__::INFO::590.0 minutes left in this search
+./logs/12-May-25 21:30:06::__main__::DEBUG::Sleeping for 3.7
+./logs/12-May-25 21:30:46::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:30:51::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:30:53::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:30:58::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:00::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:02::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:04::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:06::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:09::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:11::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:13::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:15::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:16::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:18::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:22::__main__::INFO::Application Submitted
+./logs/12-May-25 21:31:24::__main__::INFO::
+Position 51:
+ (25) Entry Level Sales Associate | Starlight | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:31:39::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:31:44::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:56::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:31:58::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:00::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:02::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:04::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:06::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:08::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:13::__main__::INFO::Application Submitted
+./logs/12-May-25 21:32:15::__main__::INFO::
+Position 52:
+ (24) Business Development Representative | Park Place Finance, LLC - Hard Money Lender | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:32:29::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:32:35::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:36::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:42::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:43::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:48::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:50::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:32:58::__main__::INFO::Application Submitted
+./logs/12-May-25 21:33:00::__main__::INFO::
+Position 53:
+ (24) Shopify Developer | Logo Media | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:33:15::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:33:20::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:33:22::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:33:28::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:33:30::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:33:32::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:33:33::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:33:35::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:33:37::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:33:39::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:33:41::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:33:46::__main__::INFO::Application Submitted
+./logs/12-May-25 21:33:48::__main__::INFO::
+Position 54:
+ (24) Business Development Representative, Austin | Xurrent | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:34:02::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:34:07::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:34:16::__main__::INFO::Application Submitted
+./logs/12-May-25 21:34:17::__main__::INFO::
+Position 55:
+ (24) Associate Attorney | Hanna & Plaut LLP | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:34:32::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:34:37::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:34:38::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:34:44::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:34:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:34:48::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:34:50::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:34:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:34:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:34:56::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:34:58::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:00::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:02::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:04::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:06::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:08::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:11::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:13::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:17::__main__::INFO::Application Submitted
+./logs/12-May-25 21:35:19::__main__::INFO::
+Position 56:
+ (24) Business Development Representative | Kasasa | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:35:34::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:35:39::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:41::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:48::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:50::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:35:57::__main__::INFO::Application Submitted
+./logs/12-May-25 21:35:59::__main__::INFO::
+Position 57:
+ (24) SDR ($70k - $80k base + $20k OTE) | Cosmic Partners | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:35:59::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/12-May-25 21:36:03::__main__::INFO::Lock avoided.
+./logs/12-May-25 21:36:24::__main__::INFO::584.0 minutes left in this search
+./logs/12-May-25 21:36:24::__main__::DEBUG::Sleeping for 3.6
+./logs/12-May-25 21:37:04::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:37:09::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:37:10::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:37:16::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:37:18::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:37:20::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:37:25::__main__::INFO::Application Submitted
+./logs/12-May-25 21:37:27::__main__::INFO::
+Position 76:
+ (24) Enterprise Development Representative | Verkada | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:37:41::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:37:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:37:48::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:37:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:37:57::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:37:59::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:38:01::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:38:03::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:38:05::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:38:07::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:38:13::__main__::INFO::Application Submitted
+./logs/12-May-25 21:38:14::__main__::INFO::
+Position 77:
+ (24) Account Executive | VigilanteX | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:38:29::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:38:34::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:38:41::__main__::INFO::Application Submitted
+./logs/12-May-25 21:38:43::__main__::INFO::
+Position 78:
+ (24) Swift Desktop Application Developer - MacOS / iOS | PTR Global | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:38:43::__main__::INFO::********count_application: 20************
+
+Time for a nap - see you in: 10 min
+****************************************
+
+
