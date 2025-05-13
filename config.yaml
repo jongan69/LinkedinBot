@@ -1,3 +1,5 @@
+headless: false
+
 positions:
 - Data Scientist
 - Software Engineer

@@ -1,0 +1,84 @@
+./logs/12-May-25 20:21:02::__main__::INFO::{'headless': True, 'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', 'Frontend Engineer', 'Backend Engineer', 'Rust Engineer', 'Solana Engineer', 'Full Stack Engineer', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 20:21:02::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 20:21:02::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 20:21:02::__main__::INFO::Please wait while we prepare the bot for you
+./logs/12-May-25 20:21:02::__main__::INFO::59 jobIDs found
+./logs/12-May-25 20:21:08::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 20:21:23::__main__::INFO::Bot initialization complete.
+./logs/12-May-25 20:21:23::__main__::INFO::Applying to Engineer: Los Angeles California
+./logs/12-May-25 20:21:23::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:21:26::__main__::INFO::Lock avoided.
+./logs/12-May-25 20:21:46::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:21:46::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 20:21:46::__main__::DEBUG::Sleeping for 4.2
+./logs/12-May-25 20:22:26::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 20:22:48::__main__::INFO::Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   undetected_chromedriver             0x00000001047678b8 undetected_chromedriver + 5986488
+1   undetected_chromedriver             0x000000010475e9ea undetected_chromedriver + 5949930
+2   undetected_chromedriver             0x0000000104217600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x000000010421e33e undetected_chromedriver + 443198
+4   undetected_chromedriver             0x0000000104220d43 undetected_chromedriver + 453955
+5   undetected_chromedriver             0x0000000104220df3 undetected_chromedriver + 454131
+6   undetected_chromedriver             0x00000001042700bd undetected_chromedriver + 778429
+7   undetected_chromedriver             0x000000010426e011 undetected_chromedriver + 770065
+8   undetected_chromedriver             0x000000010426b6a2 undetected_chromedriver + 759458
+9   undetected_chromedriver             0x000000010426ad6e undetected_chromedriver + 757102
+10  undetected_chromedriver             0x000000010425d42d undetected_chromedriver + 701485
+11  undetected_chromedriver             0x000000010428f312 undetected_chromedriver + 906002
+12  undetected_chromedriver             0x000000010425cda8 undetected_chromedriver + 699816
+13  undetected_chromedriver             0x000000010428f4ce undetected_chromedriver + 906446
+14  undetected_chromedriver             0x00000001042b6566 undetected_chromedriver + 1066342
+15  undetected_chromedriver             0x000000010428f0e3 undetected_chromedriver + 905443
+16  undetected_chromedriver             0x000000010425b61d undetected_chromedriver + 693789
+17  undetected_chromedriver             0x000000010425c281 undetected_chromedriver + 696961
+18  undetected_chromedriver             0x0000000104725580 undetected_chromedriver + 5715328
+19  undetected_chromedriver             0x0000000104729445 undetected_chromedriver + 5731397
+20  undetected_chromedriver             0x00000001046ffed0 undetected_chromedriver + 5562064
+21  undetected_chromedriver             0x0000000104729e7b undetected_chromedriver + 5734011
+22  undetected_chromedriver             0x00000001046eede4 undetected_chromedriver + 5492196
+23  undetected_chromedriver             0x000000010474ca98 undetected_chromedriver + 5876376
+24  undetected_chromedriver             0x000000010474cc60 undetected_chromedriver + 5876832
+25  undetected_chromedriver             0x000000010475e5b1 undetected_chromedriver + 5948849
+26  libsystem_pthread.dylib             0x00007ff806f26df1 _pthread_start + 99
+27  libsystem_pthread.dylib             0x00007ff806f22857 thread_start + 15
+
+./logs/12-May-25 20:22:48::__main__::INFO::cannot apply to this job
+./logs/12-May-25 20:22:48::__main__::INFO::Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   undetected_chromedriver             0x00000001047678b8 undetected_chromedriver + 5986488
+1   undetected_chromedriver             0x000000010475e9ea undetected_chromedriver + 5949930
+2   undetected_chromedriver             0x0000000104217600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x000000010421e33e undetected_chromedriver + 443198
+4   undetected_chromedriver             0x0000000104220d43 undetected_chromedriver + 453955
+5   undetected_chromedriver             0x0000000104220df3 undetected_chromedriver + 454131
+6   undetected_chromedriver             0x00000001042700bd undetected_chromedriver + 778429
+7   undetected_chromedriver             0x000000010426e011 undetected_chromedriver + 770065
+8   undetected_chromedriver             0x000000010426b6a2 undetected_chromedriver + 759458
+9   undetected_chromedriver             0x000000010426ad6e undetected_chromedriver + 757102
+10  undetected_chromedriver             0x000000010425d42d undetected_chromedriver + 701485
+11  undetected_chromedriver             0x000000010428f312 undetected_chromedriver + 906002
+12  undetected_chromedriver             0x000000010425cda8 undetected_chromedriver + 699816
+13  undetected_chromedriver             0x000000010428f4ce undetected_chromedriver + 906446
+14  undetected_chromedriver             0x00000001042b6566 undetected_chromedriver + 1066342
+15  undetected_chromedriver             0x000000010428f0e3 undetected_chromedriver + 905443
+16  undetected_chromedriver             0x000000010425b61d undetected_chromedriver + 693789
+17  undetected_chromedriver             0x000000010425c281 undetected_chromedriver + 696961
+18  undetected_chromedriver             0x0000000104725580 undetected_chromedriver + 5715328
+19  undetected_chromedriver             0x0000000104729445 undetected_chromedriver + 5731397
+20  undetected_chromedriver             0x00000001046ffed0 undetected_chromedriver + 5562064
+21  undetected_chromedriver             0x0000000104729e7b undetected_chromedriver + 5734011
+22  undetected_chromedriver             0x00000001046eede4 undetected_chromedriver + 5492196
+23  undetected_chromedriver             0x000000010474ca98 undetected_chromedriver + 5876376
+24  undetected_chromedriver             0x000000010474cc60 undetected_chromedriver + 5876832
+25  undetected_chromedriver             0x000000010475e5b1 undetected_chromedriver + 5948849
+26  libsystem_pthread.dylib             0x00007ff806f26df1 _pthread_start + 99
+27  libsystem_pthread.dylib             0x00007ff806f22857 thread_start + 15
+
+./logs/12-May-25 20:22:48::__main__::INFO::598.0 minutes left in this search
+./logs/12-May-25 20:22:48::__main__::DEBUG::Sleeping for 3.5
+./logs/12-May-25 20:23:13::__main__::INFO::Applying to Frontend Engineer: San Francisco California
+./logs/12-May-25 20:23:13::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:23:16::__main__::INFO::Lock avoided.

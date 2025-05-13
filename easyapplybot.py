@@ -1,17 +1,19 @@
 import time, random, os, csv
 import logging
+import pandas as pd
+import re
+import yaml
+import undetected_chromedriver as uc
+
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
+
 from bs4 import BeautifulSoup
-import pandas as pd
-import re
-import yaml
+from pathlib import Path
 from datetime import datetime, timedelta
-import undetected_chromedriver as uc
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -58,7 +60,8 @@ class EasyApplyBot:
         filename: str = 'output.csv',
         blacklist: list = [],
         blackListTitles: list = [],
-        experience_level: list = []
+        experience_level: list = [],
+        headless: bool = False
     ) -> None:
         assert username, "Username is required."
         assert password, "Password is required."
@@ -72,6 +75,7 @@ class EasyApplyBot:
         self.blacklist: list = blacklist
         self.blackListTitles: list = blackListTitles
         self.experience_level: list = experience_level
+        self.headless: bool = headless
 
         log.info("Welcome to Easy Apply Bot")
         dirpath = os.getcwd()
@@ -162,7 +166,9 @@ class EasyApplyBot:
         options.add_argument("--disable-blink-features=AutomationControlled")
         options.add_argument("--window-size=1920,1080")  # Set window size for headless
         options.add_argument("--disable-dev-shm-usage")  # Prevents Chrome from running out of shared memory in CI
-        options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")  # Make browser look like a real user
+        options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+        if self.headless:
+            options.add_argument("--headless=new")
         print("[DEBUG] Browser options set")
         return options
 
@@ -252,7 +258,7 @@ class EasyApplyBot:
                     if tag.has_attr('id'):
                         all_ids.add(tag['id'])
                 # print(f"[DEBUG] Classes found on page: {sorted(list(all_classes))}")
-                print(f"[DEBUG] IDs found on page: {sorted(list(all_ids))}")
+                # print(f"[DEBUG] IDs found on page: {sorted(list(all_ids))}")
                 # Optionally, print a snippet of the HTML
                 # print(f"[DEBUG] HTML snippet: {page_source[:1000]}")
 
@@ -398,34 +404,60 @@ class EasyApplyBot:
 
     def get_easy_apply_button(self) -> bool:
         print("[DEBUG] Looking for Easy Apply button")
+        from datetime import datetime
+        import os
         try:
             buttons = self.browser.find_elements(By.CLASS_NAME, 'jobs-apply-button')
             print(f"[DEBUG] Found {len(buttons)} buttons with class 'jobs-apply-button'")
             for idx, btn in enumerate(buttons):
                 try:
                     btn_text = btn.text.strip()
-                    btn_displayed = btn.is_displayed()
-                    btn_enabled = btn.is_enabled()
                     btn_aria = btn.get_attribute('aria-label')
-                    print(f"[DEBUG] Button {idx}: text={btn_text}, displayed={btn_displayed}, enabled={btn_enabled}, aria-label={btn_aria}")
-                    if btn_displayed and btn_enabled and ('Easy Apply' in btn_text or 'Easy Apply' in (btn_aria or '')):
-                        # Scroll to center
-                        self.browser.execute_script("arguments[0].scrollIntoView({block: 'center'});", btn)
-                        time.sleep(0.5)
-                        # Close overlays
-                        self.browser.find_element(By.TAG_NAME, 'body').send_keys(Keys.ESCAPE)
-                        time.sleep(0.5)
+                    btn_tag = btn.tag_name
+                    btn_location = btn.location
+                    btn_size = btn.size
+                    btn_outer_html = btn.get_attribute('outerHTML')
+                    btn_parent_html = self.browser.execute_script('return arguments[0].parentNode.outerHTML', btn)
+                    print(f"[DEBUG] Button {idx}: tag={btn_tag}, text={btn_text}, aria-label={btn_aria}, location={btn_location}, size={btn_size}")
+                    print(f"[DEBUG] Button {idx} outerHTML: {btn_outer_html[:300]}...")
+                    print(f"[DEBUG] Button {idx} parent outerHTML: {btn_parent_html[:300]}...")
+                    clicked = False
+                    # Try normal click
+                    try:
+                        btn.click()
+                        print(f"[DEBUG] Normal click succeeded on button {idx}.")
+                        clicked = True
+                    except Exception as click_exc:
+                        print(f"[DEBUG] Normal click failed: {click_exc}, trying JS click.")
                         try:
-                            btn.click()
-                            print("[DEBUG] Easy Apply button clicked (normal click).")
-                        except Exception as click_exc:
-                            print(f"[DEBUG] Normal click failed: {click_exc}, trying JS click.")
                             self.browser.execute_script("arguments[0].click();", btn)
-                            print("[DEBUG] Easy Apply button clicked (JS click).")
+                            print(f"[DEBUG] JS click succeeded on button {idx}.")
+                            clicked = True
+                        except Exception as js_exc:
+                            print(f"[DEBUG] JS click failed: {js_exc}")
+                            clicked = False
+                    if clicked:
+                        # Wait for modal to appear
+                        try:
+                            WebDriverWait(self.browser, 10).until(
+                                lambda d: any(
+                                    el.is_displayed() for el in d.find_elements(By.CLASS_NAME, 'artdeco-modal-overlay')
+                                )
+                            )
+                            print("[DEBUG] Easy Apply modal appeared.")
+                        except Exception as modal_exc:
+                            print(f"[DEBUG] Modal did not appear: {modal_exc}")
                         return True
                 except Exception as be:
                     print(f"[DEBUG] Exception checking button {idx}: {be}")
-            print("[DEBUG] No visible and enabled Easy Apply button found.")
+            print("[DEBUG] No Easy Apply button could be clicked.")
+            # Ensure screenshots directory exists
+            screenshots_dir = 'screenshots'
+            if not os.path.exists(screenshots_dir):
+                os.makedirs(screenshots_dir)
+            screenshot_name = os.path.join(screenshots_dir, f"debug_no_easy_apply_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png")
+            self.browser.save_screenshot(screenshot_name)
+            print(f"[DEBUG] Saved screenshot: {screenshot_name}")
             return False
         except Exception as e:
             print(f"[DEBUG] Exception in get_easy_apply_button: {e}")
@@ -434,10 +466,13 @@ class EasyApplyBot:
     def ans_question(self, question: str) -> str:
         answer = None
         q = question.lower()
-        if "how many" in q:
-            answer = "1"
-        elif "experience" in q:
-            answer = "1"
+        # Extract number from question if present
+        import re
+        number_match = re.search(r'(\d+(?:\.\d+)?)', question)
+        if ("how many" in q or "experience" in q) and number_match:
+            answer = number_match.group(1)
+        elif "how many" in q or "experience" in q:
+            answer = "1.0"
         elif "sponsor" in q:
             answer = "No"
         elif 'do you ' in q:
@@ -447,7 +482,11 @@ class EasyApplyBot:
         elif "us citizen" in q:
             answer = "Yes"
         elif "are you " in q:
-            answer = "Yes"
+            # Special case for 'Are you ok with that?'
+            if "ok with that" in q:
+                answer = "Yes"
+            else:
+                answer = "Yes"
         elif "salary" in q:
             answer = self.salary
         elif "can you" in q:
@@ -468,6 +507,10 @@ class EasyApplyBot:
             answer = "Yes"
         elif "phone" in q and self.phone_number:
             answer = self.phone_number
+        elif "graduate within last 2 years" in q:
+            answer = "No"
+            # Add justification if required
+            answer += "; I graduated more than 2 years ago but am eager to contribute and learn."
         else:
             log.info(f"Not able to answer question automatically. Please provide answer for: {question}")
             answer = "user provided"
@@ -484,40 +527,109 @@ class EasyApplyBot:
 
     def process_questions(self) -> None:
         fields = self.get_elements('fields')
-        for field in fields:
+        for idx, field in enumerate(fields):
             question = field.text
+            print(f"[DEBUG] Processing question {idx}: {question}")
             answer = self.ans_question(question)
-            # Try to fill radio, multi, or text fields
+            filled = False
             try:
-                # radio button
-                if self.is_present(self.locator["radio_select"]):
-                    try:
-                        input_elem = field.find_element(By.CSS_SELECTOR, f"input[type='radio'][value='{answer}']")
-                        self.browser.execute_script("arguments[0].click();", input_elem)
-                        continue
-                    except Exception as e:
-                        log.error(f"Radio select error: {e}")
-                        continue
-                # multi select
-                elif self.is_present(self.locator["multi_select"]):
-                    try:
-                        input_elem = field.find_element(*self.locator["multi_select"])
-                        input_elem.send_keys(answer)
-                        continue
-                    except Exception as e:
-                        log.error(f"Multi select error: {e}")
-                        continue
-                # text box
-                elif self.is_present(self.locator["text_select"]):
-                    try:
-                        input_elem = field.find_element(*self.locator["text_select"])
-                        input_elem.send_keys(answer)
-                        continue
-                    except Exception as e:
-                        log.error(f"Text select error: {e}")
-                        continue
+                # Checkboxes (Yes/No or similar)
+                checkboxes = field.find_elements(By.CSS_SELECTOR, "input[type='checkbox']")
+                if checkboxes:
+                    print(f"[DEBUG] Found {len(checkboxes)} checkboxes in field {idx}")
+                    for checkbox in checkboxes:
+                        is_checked = checkbox.is_selected()
+                        # If answer is Yes, check it; if No, uncheck it
+                        if str(answer).lower() == "yes" and not is_checked:
+                            self.browser.execute_script("arguments[0].click();", checkbox)
+                            print(f"[DEBUG] Checked checkbox for answer: {answer}")
+                            filled = True
+                        elif str(answer).lower() == "no" and is_checked:
+                            self.browser.execute_script("arguments[0].click();", checkbox)
+                            print(f"[DEBUG] Unchecked checkbox for answer: {answer}")
+                            filled = True
+                # Numeric inputs (type='number')
+                number_inputs = field.find_elements(By.CSS_SELECTOR, "input[type='number']")
+                if number_inputs:
+                    print(f"[DEBUG] Found {len(number_inputs)} number inputs in field {idx}")
+                    for number_input in number_inputs:
+                        number_input.clear()
+                        number_input.send_keys(answer)
+                        print(f"[DEBUG] Filled number input with answer: {answer}")
+                        filled = True
+                # Dropdowns (select elements)
+                selects = field.find_elements(By.TAG_NAME, "select")
+                if selects:
+                    print(f"[DEBUG] Found {len(selects)} dropdowns in field {idx}")
+                    for select in selects:
+                        options = select.find_elements(By.TAG_NAME, "option")
+                        found = False
+                        # Try exact match first
+                        for option in options:
+                            if option.text.strip().lower() == str(answer).strip().lower():
+                                self.browser.execute_script("arguments[0].selected = true; arguments[0].dispatchEvent(new Event('change', {bubbles: true}));", option)
+                                print(f"[DEBUG] Selected dropdown option (exact): {option.text}")
+                                filled = True
+                                found = True
+                                break
+                        # Try partial match if no exact match
+                        if not found:
+                            for option in options:
+                                if str(answer).strip().lower() in option.text.strip().lower() and option.text.strip():
+                                    self.browser.execute_script("arguments[0].selected = true; arguments[0].dispatchEvent(new Event('change', {bubbles: true}));", option)
+                                    print(f"[DEBUG] Selected dropdown option (partial): {option.text}")
+                                    filled = True
+                                    found = True
+                                    break
+                        # As a last resort, select the first non-empty option
+                        if not found:
+                            for option in options:
+                                if option.text.strip():
+                                    self.browser.execute_script("arguments[0].selected = true; arguments[0].dispatchEvent(new Event('change', {bubbles: true}));", option)
+                                    print(f"[DEBUG] WARNING: No match for answer '{answer}'. Selected first non-empty option: {option.text}")
+                                    filled = True
+                                    break
+                # Radio buttons
+                radio_inputs = field.find_elements(By.CSS_SELECTOR, "input[type='radio']")
+                if radio_inputs:
+                    print(f"[DEBUG] Found {len(radio_inputs)} radio inputs in field {idx}")
+                    for radio in radio_inputs:
+                        value = radio.get_attribute('value')
+                        print(f"[DEBUG] Radio value: {value}")
+                        if value and value.lower() == str(answer).lower():
+                            self.browser.execute_script("arguments[0].click();", radio)
+                            print(f"[DEBUG] Clicked radio for answer: {answer}")
+                            filled = True
+                            break
+                # Multi-selects (fallback)
+                multi_inputs = field.find_elements(By.XPATH, "//*[contains(@id, 'text-entity-list-form-component')]")
+                if multi_inputs:
+                    print(f"[DEBUG] Found {len(multi_inputs)} multi-select inputs in field {idx}")
+                    for multi in multi_inputs:
+                        multi.send_keys(answer)
+                        print(f"[DEBUG] Filled multi-select with answer: {answer}")
+                        filled = True
+                # Text inputs
+                text_inputs = field.find_elements(By.CLASS_NAME, "artdeco-text-input--input")
+                if text_inputs:
+                    print(f"[DEBUG] Found {len(text_inputs)} text inputs in field {idx}")
+                    for text_input in text_inputs:
+                        text_input.clear()
+                        text_input.send_keys(answer)
+                        print(f"[DEBUG] Filled text input with answer: {answer}")
+                        filled = True
+                if not filled:
+                    print(f"[DEBUG] No input filled for question {idx}. Field HTML: {field.get_attribute('outerHTML')[:500]}")
             except Exception as e:
+                print(f"[DEBUG] Exception processing question {idx}: {e}. Field HTML: {field.get_attribute('outerHTML')[:500]}")
                 log.error(f"process_questions error: {e}")
+                # Save the question and error to qa_errors.csv
+                error_file = Path("qa_errors.csv")
+                error_data = pd.DataFrame({"Question": [question], "Error": [str(e)]})
+                if error_file.is_file():
+                    error_data.to_csv(error_file, mode='a', header=False, index=False, encoding='utf-8')
+                else:
+                    error_data.to_csv(error_file, mode='w', header=True, index=False, encoding='utf-8')
                 continue
         log.info("Finished processing questions.")
 
@@ -543,6 +655,8 @@ class EasyApplyBot:
             submitted = False
             while True:
                 print("[DEBUG] In send_resume loop")
+                # Always process questions before clicking any buttons
+                self.process_questions()
                 # Upload Resume if possible
                 if "Resume" in self.uploads and is_present(resume_upload_locator):
                     try:
@@ -552,6 +666,15 @@ class EasyApplyBot:
                         log.info("Resume uploaded successfully.")
                     except Exception as e:
                         log.error(f"Resume upload failed: {e}")
+                        # Screenshot on error
+                        import os
+                        from datetime import datetime
+                        screenshots_dir = 'screenshots'
+                        if not os.path.exists(screenshots_dir):
+                            os.makedirs(screenshots_dir)
+                        screenshot_name = os.path.join(screenshots_dir, f"send_resume_resume_upload_error_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png")
+                        self.browser.save_screenshot(screenshot_name)
+                        print(f"[DEBUG] Saved screenshot for resume upload error: {screenshot_name}")
                 # Upload Cover Letter if possible
                 if "Cover Letter" in self.uploads and is_present(cover_letter_upload_locator):
                     try:
@@ -561,6 +684,15 @@ class EasyApplyBot:
                         log.info("Cover letter uploaded successfully.")
                     except Exception as e:
                         log.error(f"Cover letter upload failed: {e}")
+                        # Screenshot on error
+                        import os
+                        from datetime import datetime
+                        screenshots_dir = 'screenshots'
+                        if not os.path.exists(screenshots_dir):
+                            os.makedirs(screenshots_dir)
+                        screenshot_name = os.path.join(screenshots_dir, f"send_resume_coverletter_upload_error_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png")
+                        self.browser.save_screenshot(screenshot_name)
+                        print(f"[DEBUG] Saved screenshot for cover letter upload error: {screenshot_name}")
                 # Fallback: generic upload field
                 if is_present(upload_locator):
                     print("[DEBUG] Generic upload field present, attempting upload")
@@ -573,6 +705,15 @@ class EasyApplyBot:
                                 log.info(f"Uploaded {key} via generic upload field.")
                             except Exception as e:
                                 log.error(f"Failed to upload {key} via generic upload field: {e}")
+                                # Screenshot on error
+                                import os
+                                from datetime import datetime
+                                screenshots_dir = 'screenshots'
+                                if not os.path.exists(screenshots_dir):
+                                    os.makedirs(screenshots_dir)
+                                screenshot_name = os.path.join(screenshots_dir, f"send_resume_generic_upload_error_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png")
+                                self.browser.save_screenshot(screenshot_name)
+                                print(f"[DEBUG] Saved screenshot for generic upload error: {screenshot_name}")
                     time.sleep(random.uniform(2.5, 4.5))
 
                 # Click Next or submit button if possible
@@ -580,15 +721,28 @@ class EasyApplyBot:
                 buttons = [next_locater, review_locater, follow_locator, submit_locater]
                 for i, button_locator in enumerate(buttons):
                     if is_present(button_locator):
-                        button = self.wait.until(EC.element_to_be_clickable(button_locator))
-                        print(f"[DEBUG] Found clickable button at step {i}")
-
+                        print("[DEBUG] Waiting for loader and button to be ready...")
+                        button = self.wait_for_loader_and_button(button_locator)
+                        if button:
+                            print(f"[DEBUG] Found clickable and visible button at step {i}")
+                        else:
+                            print(f"[DEBUG] Could not safely click button at step {i} due to loader/overlay issues.")
+                            continue
                     if is_present(error_locator):
                         for element in self.browser.find_elements(error_locator[0], error_locator[1]):
                             text = element.text
                             if "Please enter a valid answer" in text:
                                 print("[DEBUG] Found error message, cannot proceed")
                                 button = None
+                                # Screenshot on error
+                                import os
+                                from datetime import datetime
+                                screenshots_dir = 'screenshots'
+                                if not os.path.exists(screenshots_dir):
+                                    os.makedirs(screenshots_dir)
+                                screenshot_name = os.path.join(screenshots_dir, f"send_resume_form_error_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png")
+                                self.browser.save_screenshot(screenshot_name)
+                                print(f"[DEBUG] Saved screenshot for form error: {screenshot_name}")
                                 break
                             else:
                                 # If there are questions, process them
@@ -604,6 +758,15 @@ class EasyApplyBot:
                 if button is None:
                     log.info("Could not complete submission")
                     print("[DEBUG] Could not complete submission in send_resume")
+                    # Screenshot on error
+                    import os
+                    from datetime import datetime
+                    screenshots_dir = 'screenshots'
+                    if not os.path.exists(screenshots_dir):
+                        os.makedirs(screenshots_dir)
+                    screenshot_name = os.path.join(screenshots_dir, f"send_resume_no_button_error_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png")
+                    self.browser.save_screenshot(screenshot_name)
+                    print(f"[DEBUG] Saved screenshot for no button error: {screenshot_name}")
                     break
                 elif submitted:
                     log.info("Application Submitted")
@@ -616,6 +779,15 @@ class EasyApplyBot:
             log.info(e)
             log.info("cannot apply to this job")
             print(f"[DEBUG] Exception in send_resume: {e}")
+            # Screenshot on any error
+            import os
+            from datetime import datetime
+            screenshots_dir = 'screenshots'
+            if not os.path.exists(screenshots_dir):
+                os.makedirs(screenshots_dir)
+            screenshot_name = os.path.join(screenshots_dir, f"send_resume_exception_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png")
+            self.browser.save_screenshot(screenshot_name)
+            print(f"[DEBUG] Saved screenshot for send_resume exception: {screenshot_name}")
             raise (e)
 
         return submitted
@@ -672,6 +844,75 @@ class EasyApplyBot:
         locator = self.locator[locator_name]
         return self.browser.find_elements(locator[0], locator[1])
 
+    def wait_for_loader_and_button(self, button_locator, timeout=20):
+        import time
+        from datetime import datetime
+        from selenium.webdriver.common.by import By
+        from selenium.webdriver.support.ui import WebDriverWait
+        from selenium.webdriver.support import expected_conditions as EC
+        from selenium.common.exceptions import TimeoutException
+        import os
+        screenshots_dir = 'screenshots'
+        if not os.path.exists(screenshots_dir):
+            os.makedirs(screenshots_dir)
+        LOADER_CLASSES = [
+            'jobs-loader',
+            'artdeco-spinner',
+            # 'artdeco-modal-overlay',  # Do not treat modal background as a loader
+        ]
+        def all_loaders_gone(driver):
+            any_displayed = False
+            for cls in LOADER_CLASSES:
+                overlays = driver.find_elements(By.CLASS_NAME, cls)
+                for overlay in overlays:
+                    if overlay.is_displayed():
+                        any_displayed = True
+                        print(f"[DEBUG] Overlay {cls} is displayed. Style: {overlay.get_attribute('style')}, Rect: {overlay.rect}")
+            return not any_displayed
+        def is_element_clickable(driver, element):
+            return driver.execute_script('''
+                var elem = arguments[0];
+                var rect = elem.getBoundingClientRect();
+                var x = rect.left + rect.width/2;
+                var y = rect.top + rect.height/2;
+                var el = document.elementFromPoint(x, y);
+                if (el === elem || elem.contains(el)) {
+                    // Check if the element is visible and not covered
+                    var style = window.getComputedStyle(elem);
+                    return (style.visibility !== 'hidden' && style.display !== 'none' && style.opacity !== '0');
+                }
+                return false;
+            ''', element)
+        end_time = time.time() + timeout
+        while time.time() < end_time:
+            # Wait for all loaders/overlays to disappear
+            loaders_gone = False
+            try:
+                loaders_gone = WebDriverWait(self.browser, 5).until(all_loaders_gone)
+            except TimeoutException:
+                pass  # Loader still present
+            if loaders_gone:
+                try:
+                    button = self.wait.until(EC.element_to_be_clickable(button_locator))
+                    is_displayed = button.is_displayed()
+                    if is_displayed:
+                        # Scroll into view before clicking
+                        self.browser.execute_script("arguments[0].scrollIntoView({block: 'center'});", button)
+                        # Check if button is truly clickable at its center
+                        clickable = is_element_clickable(self.browser, button)
+                        if clickable:
+                            return button
+                        else:
+                            print("[DEBUG] Button is not clickable at its center, waiting...")
+                except Exception as e:
+                    pass  # Button not ready yet
+            time.sleep(0.5)
+        # If we get here, something is still wrong
+        screenshot_name = os.path.join(screenshots_dir, f"send_resume_loader_or_button_error_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png")
+        self.browser.save_screenshot(screenshot_name)
+        print(f"[DEBUG] Saved screenshot for loader/button error: {screenshot_name}")
+        return None
+
 
 if __name__ == '__main__':
     print("[DEBUG] Starting main execution block")
@@ -718,7 +959,8 @@ if __name__ == '__main__':
         filename=output_filename,
         blacklist=blacklist,
         blackListTitles=blackListTitles,
-        experience_level=parameters.get('experience_level', [])
+        experience_level=parameters.get('experience_level', []),
+        headless=parameters.get('headless', False)
     )
 
     locations = [l for l in parameters['locations'] if l != None]

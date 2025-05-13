@@ -1,0 +1,270 @@
+./logs/12-May-25 21:06:51::__main__::INFO::{'headless': False, 'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', 'Frontend Engineer', 'Backend Engineer', 'Rust Engineer', 'Solana Engineer', 'Full Stack Engineer', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 21:06:51::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 21:06:51::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 21:06:51::__main__::INFO::Please wait while we prepare the bot for you
+./logs/12-May-25 21:06:51::__main__::INFO::76 jobIDs found
+./logs/12-May-25 21:06:58::__main__::INFO::Could not maximize window: Message: unknown error: JavaScript code failed
+from unknown command: 'Runtime.evaluate' wasn't found
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+0   undetected_chromedriver             0x00000001050288b8 undetected_chromedriver + 5986488
+1   undetected_chromedriver             0x000000010501f9ea undetected_chromedriver + 5949930
+2   undetected_chromedriver             0x0000000104ad8600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x0000000104abf492 undetected_chromedriver + 312466
+4   undetected_chromedriver             0x0000000104abde98 undetected_chromedriver + 306840
+5   undetected_chromedriver             0x0000000104abe5ff undetected_chromedriver + 308735
+6   undetected_chromedriver             0x0000000104aecb04 undetected_chromedriver + 498436
+7   undetected_chromedriver             0x0000000104ae1891 undetected_chromedriver + 452753
+8   undetected_chromedriver             0x0000000104ae1788 undetected_chromedriver + 452488
+9   undetected_chromedriver             0x0000000104ab0346 undetected_chromedriver + 250694
+10  undetected_chromedriver             0x0000000104aae7ce undetected_chromedriver + 243662
+11  undetected_chromedriver             0x0000000104b8c3d7 undetected_chromedriver + 1151959
+12  undetected_chromedriver             0x0000000104b50312 undetected_chromedriver + 906002
+13  undetected_chromedriver             0x0000000104b77566 undetected_chromedriver + 1066342
+14  undetected_chromedriver             0x0000000104b500e3 undetected_chromedriver + 905443
+15  undetected_chromedriver             0x0000000104b1c61d undetected_chromedriver + 693789
+16  undetected_chromedriver             0x0000000104b1d281 undetected_chromedriver + 696961
+17  undetected_chromedriver             0x0000000104fe6580 undetected_chromedriver + 5715328
+18  undetected_chromedriver             0x0000000104fea445 undetected_chromedriver + 5731397
+19  undetected_chromedriver             0x0000000104fc0ed0 undetected_chromedriver + 5562064
+20  undetected_chromedriver             0x0000000104feae7b undetected_chromedriver + 5734011
+21  undetected_chromedriver             0x0000000104fafde4 undetected_chromedriver + 5492196
+22  undetected_chromedriver             0x000000010500da98 undetected_chromedriver + 5876376
+23  undetected_chromedriver             0x000000010500dc60 undetected_chromedriver + 5876832
+24  undetected_chromedriver             0x000000010501f5b1 undetected_chromedriver + 5948849
+25  libsystem_pthread.dylib             0x00007ff806f26df1 _pthread_start + 99
+26  libsystem_pthread.dylib             0x00007ff806f22857 thread_start + 15
+
+./logs/12-May-25 21:06:58::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 21:07:17::__main__::INFO::Bot initialization complete.
+./logs/12-May-25 21:07:17::__main__::INFO::Applying to SaaS Intern: Miami Beach Florida
+./logs/12-May-25 21:07:17::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 21:07:21::__main__::INFO::Lock avoided.
+./logs/12-May-25 21:07:41::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 21:07:41::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 21:07:41::__main__::DEBUG::Sleeping for 4.4
+./logs/12-May-25 21:08:22::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:08:26::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:08:28::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:08:34::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:08:37::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:08:39::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:08:41::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:08:42::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:08:45::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:08:47::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:08:51::__main__::INFO::Application Submitted
+./logs/12-May-25 21:08:53::__main__::INFO::
+Position 1:
+ (25) Software Sales Executive | Alpha Bravo Development | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:09:07::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:09:13::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:09:15::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:09:20::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:09:22::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:09:24::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:09:28::__main__::INFO::Application Submitted
+./logs/12-May-25 21:09:30::__main__::INFO::
+Position 2:
+ (25) Business Development Consultant | InterEx Group | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:09:45::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:09:50::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:09:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:09:58::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:00::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:02::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:04::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:06::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:08::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:10::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:13::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:15::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:17::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:19::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:22::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:24::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:26::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:28::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:33::__main__::INFO::Application Submitted
+./logs/12-May-25 21:10:35::__main__::INFO::
+Position 3:
+ (25) Beauty Product Specialist | Endospheres® | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:10:50::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:10:55::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:10:57::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:04::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:05::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:07::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:10::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:12::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:14::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:16::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:18::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:20::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:23::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:25::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:28::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:30::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:33::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:35::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:37::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:39::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:41::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:44::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:45::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:48::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:50::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:51::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:55::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:11:57::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:12:00::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:12:02::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:12:04::__main__::INFO::Application Submitted
+./logs/12-May-25 21:12:06::__main__::INFO::
+Position 4:
+ (25) Full Stack Software Engineer | Selby Jennings | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:12:06::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+
+./logs/12-May-25 21:12:10::__main__::INFO::Lock avoided.
+./logs/12-May-25 21:12:30::__main__::INFO::594.0 minutes left in this search
+./logs/12-May-25 21:12:30::__main__::DEBUG::Sleeping for 3.7
+./logs/12-May-25 21:13:10::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:13:15::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:18::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:22::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:25::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:27::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:29::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:32::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:33::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:36::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:38::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:40::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:41::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:44::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:48::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:51::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:53::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:57::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:13:59::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:02::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:04::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:06::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:09::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:11::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:13::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:16::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:18::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:20::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:22::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:25::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:26::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:29::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:31::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:33::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:36::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:38::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:40::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:42::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:45::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:47::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:49::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:51::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:55::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:57::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:14:59::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:02::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:04::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:06::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:08::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:10::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:12::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:14::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:16::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:19::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:21::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:23::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:25::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:27::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:30::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:32::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:34::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:36::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:38::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:40::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:42::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:44::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:48::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:50::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:55::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:57::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:15:59::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:01::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:03::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:05::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:10::__main__::INFO::Application Submitted
+./logs/12-May-25 21:16:11::__main__::INFO::
+Position 26:
+ (25) Engineering or Design Intern | StartHub | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:16:26::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:16:31::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:33::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:39::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:41::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:43::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:44::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:47::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:50::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:56::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:16:58::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:00::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:02::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:07::__main__::INFO::Application Submitted
+./logs/12-May-25 21:17:08::__main__::INFO::
+Position 27:
+ (25) Instagram DM Outreach Specialist | Mawer Capital | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 21:17:23::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 21:17:28::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:30::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:36::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:37::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:39::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:42::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:44::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:47::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:50::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:51::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:53::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:17:55::__main__::INFO::Finished processing questions.
+./logs/12-May-25 21:18:00::__main__::INFO::Application Submitted
+./logs/12-May-25 21:18:01::__main__::INFO::
+Position 28:
+ (25) Innovation Technology Manager | Norwegian Cruise Line Holdings Ltd. | LinkedIn 
+ * has Easy Apply Button 
+

@@ -1,0 +1,110 @@
+./logs/12-May-25 20:55:03::__main__::INFO::{'headless': False, 'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', 'Frontend Engineer', 'Backend Engineer', 'Rust Engineer', 'Solana Engineer', 'Full Stack Engineer', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 20:55:03::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 20:55:03::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 20:55:03::__main__::INFO::Please wait while we prepare the bot for you
+./logs/12-May-25 20:55:03::__main__::INFO::70 jobIDs found
+./logs/12-May-25 20:55:10::__main__::INFO::Could not maximize window: Message: unknown error: JavaScript code failed
+from unknown command: 'Runtime.evaluate' wasn't found
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+0   undetected_chromedriver             0x00000001013e18b8 undetected_chromedriver + 5986488
+1   undetected_chromedriver             0x00000001013d89ea undetected_chromedriver + 5949930
+2   undetected_chromedriver             0x0000000100e91600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x0000000100e78492 undetected_chromedriver + 312466
+4   undetected_chromedriver             0x0000000100e76e98 undetected_chromedriver + 306840
+5   undetected_chromedriver             0x0000000100e775ff undetected_chromedriver + 308735
+6   undetected_chromedriver             0x0000000100ea5b04 undetected_chromedriver + 498436
+7   undetected_chromedriver             0x0000000100e9a891 undetected_chromedriver + 452753
+8   undetected_chromedriver             0x0000000100e9a788 undetected_chromedriver + 452488
+9   undetected_chromedriver             0x0000000100e69346 undetected_chromedriver + 250694
+10  undetected_chromedriver             0x0000000100e677ce undetected_chromedriver + 243662
+11  undetected_chromedriver             0x0000000100f453d7 undetected_chromedriver + 1151959
+12  undetected_chromedriver             0x0000000100f09312 undetected_chromedriver + 906002
+13  undetected_chromedriver             0x0000000100f30566 undetected_chromedriver + 1066342
+14  undetected_chromedriver             0x0000000100f090e3 undetected_chromedriver + 905443
+15  undetected_chromedriver             0x0000000100ed561d undetected_chromedriver + 693789
+16  undetected_chromedriver             0x0000000100ed6281 undetected_chromedriver + 696961
+17  undetected_chromedriver             0x000000010139f580 undetected_chromedriver + 5715328
+18  undetected_chromedriver             0x00000001013a3445 undetected_chromedriver + 5731397
+19  undetected_chromedriver             0x0000000101379ed0 undetected_chromedriver + 5562064
+20  undetected_chromedriver             0x00000001013a3e7b undetected_chromedriver + 5734011
+21  undetected_chromedriver             0x0000000101368de4 undetected_chromedriver + 5492196
+22  undetected_chromedriver             0x00000001013c6a98 undetected_chromedriver + 5876376
+23  undetected_chromedriver             0x00000001013c6c60 undetected_chromedriver + 5876832
+24  undetected_chromedriver             0x00000001013d85b1 undetected_chromedriver + 5948849
+25  libsystem_pthread.dylib             0x00007ff806f26df1 _pthread_start + 99
+26  libsystem_pthread.dylib             0x00007ff806f22857 thread_start + 15
+
+./logs/12-May-25 20:55:10::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 20:55:24::__main__::INFO::Bot initialization complete.
+./logs/12-May-25 20:55:24::__main__::INFO::Applying to SaaS Intern: Boston Massachusetts
+./logs/12-May-25 20:55:24::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:55:28::__main__::INFO::Lock avoided.
+./logs/12-May-25 20:55:48::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:55:48::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 20:55:48::__main__::DEBUG::Sleeping for 4.0
+./logs/12-May-25 20:56:29::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 20:56:33::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:35::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:37::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:39::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:41::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:43::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:45::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:47::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:49::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:56::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:56:58::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:00::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:02::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:04::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:07::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:09::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:11::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:13::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:16::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:18::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:23::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:29::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:31::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:33::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:35::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:36::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:38::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:40::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:42::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:44::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:46::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:48::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:50::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:52::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:54::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:56::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:57:59::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:58:01::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:58:03::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:58:05::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:58:08::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:58:12::__main__::INFO::Application Submitted
+./logs/12-May-25 20:58:14::__main__::INFO::
+Position 1:
+ (25) Technical Sales Engineer - US/Canada | Teramind | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 20:58:28::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 20:58:34::__main__::INFO::Finished processing questions.
+./logs/12-May-25 20:58:41::__main__::INFO::Application Submitted
+./logs/12-May-25 20:58:43::__main__::INFO::
+Position 2:
+ (25) Software Engineer - Up to $130k + Bonus + Package | Hunter Bond | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/12-May-25 20:58:43::__main__::INFO::****************************************
+
+
+                        Going to next jobs page, YEAAAHHH!!
+                        ****************************************
+
+

@@ -1,0 +1,19 @@
+./logs/12-May-25 20:09:47::__main__::INFO::{'headless': True, 'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', 'Frontend Engineer', 'Backend Engineer', 'Rust Engineer', 'Solana Engineer', 'Full Stack Engineer', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 20:09:47::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 20:09:47::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 20:09:47::__main__::INFO::Please wait while we prepare the bot for you
+./logs/12-May-25 20:09:47::__main__::INFO::57 jobIDs found
+./logs/12-May-25 20:09:54::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 20:10:09::__main__::INFO::Bot initialization complete.
+./logs/12-May-25 20:10:09::__main__::INFO::Applying to Frontend Engineer: St. Petersburg Florida
+./logs/12-May-25 20:10:09::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:10:11::__main__::INFO::Lock avoided.
+./logs/12-May-25 20:10:32::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:10:32::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 20:10:32::__main__::DEBUG::Sleeping for 4.9
+./logs/12-May-25 20:11:23::__main__::INFO::The button does not exist.
+./logs/12-May-25 20:11:23::__main__::INFO::
+Position 1:
+ (25) Senior Frontend Engineer | Edia | LinkedIn 
+ * Doesn't have Easy Apply Button 
+

@@ -1,0 +1,81 @@
+./logs/12-May-25 20:17:20::__main__::INFO::{'headless': True, 'positions': ['Data Scientist', 'Software Engineer', 'Junior Software Developer', 'Blockchain Engineer', 'React Engineer', 'SaaS Intern', 'Blockchain Developer', 'Engineer', 'Full Stack', 'Frontend Engineer', 'Backend Engineer', 'Rust Engineer', 'Solana Engineer', 'Full Stack Engineer', None, None], 'locations': ['Remote', 'Miami Beach Florida', 'Miami Florida', 'Fort Lauderdale Florida', 'West Palm Beach Florida', 'Boca Raton Florida', 'Delray Beach Florida', 'Boynton Beach Florida', 'Lake Worth Florida', 'Palm Beach Gardens Florida', 'Orlando Florida', 'Tampa Florida', 'St. Petersburg Florida', 'Clearwater Florida', 'Sarasota Florida', 'Naples Florida', 'Fort Myers Florida', 'New York City New York', 'San Francisco California', 'Los Angeles California', 'Chicago Illinois', 'Boston Massachusetts', 'Seattle Washington', 'Austin Texas', None], 'Resume': '/Users/jonathangan/Desktop/Personal/Resume-Revison.docx', 'Cover Letter': '/Users/jonathangan/Desktop/Personal/CoverLetter.pdf', 'Photo': '/Users/jonathangan/Desktop/profilepic.jpg', 'blacklist': ['CyberCoders', 'Jobot']}
+./logs/12-May-25 20:17:20::__main__::INFO::Welcome to Easy Apply Bot
+./logs/12-May-25 20:17:20::__main__::INFO::current directory is : /Users/jonathangan/Desktop/Code/LinkedinBot
+./logs/12-May-25 20:17:20::__main__::INFO::Please wait while we prepare the bot for you
+./logs/12-May-25 20:17:20::__main__::INFO::59 jobIDs found
+./logs/12-May-25 20:17:25::__main__::INFO::Logging in.....Please wait :)  
+./logs/12-May-25 20:17:39::__main__::INFO::Bot initialization complete.
+./logs/12-May-25 20:17:40::__main__::INFO::Applying to Software Engineer: Lake Worth Florida
+./logs/12-May-25 20:17:40::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:17:42::__main__::INFO::Lock avoided.
+./logs/12-May-25 20:18:03::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:18:03::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 20:18:03::__main__::DEBUG::Sleeping for 3.8
+./logs/12-May-25 20:18:42::__main__::INFO::Clicking the EASY apply button
+./logs/12-May-25 20:18:48::__main__::INFO::Message: element click intercepted: Element <button aria-label="Continue to next step" id="ember66" class="artdeco-button artdeco-button--2 artdeco-button--primary ember-view" data-easy-apply-next-button="" data-live-test-easy-apply-next-button="" type="button">...</button> is not clickable at point (1169, 201). Other element would receive the click: <div class="jobs-loader">...</div>
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+0   undetected_chromedriver             0x00000001031628b8 undetected_chromedriver + 5986488
+1   undetected_chromedriver             0x00000001031599ea undetected_chromedriver + 5949930
+2   undetected_chromedriver             0x0000000102c12600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x0000000102c6b1b0 undetected_chromedriver + 778672
+4   undetected_chromedriver             0x0000000102c69011 undetected_chromedriver + 770065
+5   undetected_chromedriver             0x0000000102c666a2 undetected_chromedriver + 759458
+6   undetected_chromedriver             0x0000000102c65d6e undetected_chromedriver + 757102
+7   undetected_chromedriver             0x0000000102c5842d undetected_chromedriver + 701485
+8   undetected_chromedriver             0x0000000102c8a312 undetected_chromedriver + 906002
+9   undetected_chromedriver             0x0000000102c57da8 undetected_chromedriver + 699816
+10  undetected_chromedriver             0x0000000102c8a4ce undetected_chromedriver + 906446
+11  undetected_chromedriver             0x0000000102cb1566 undetected_chromedriver + 1066342
+12  undetected_chromedriver             0x0000000102c8a0e3 undetected_chromedriver + 905443
+13  undetected_chromedriver             0x0000000102c5661d undetected_chromedriver + 693789
+14  undetected_chromedriver             0x0000000102c57281 undetected_chromedriver + 696961
+15  undetected_chromedriver             0x0000000103120580 undetected_chromedriver + 5715328
+16  undetected_chromedriver             0x0000000103124445 undetected_chromedriver + 5731397
+17  undetected_chromedriver             0x00000001030faed0 undetected_chromedriver + 5562064
+18  undetected_chromedriver             0x0000000103124e7b undetected_chromedriver + 5734011
+19  undetected_chromedriver             0x00000001030e9de4 undetected_chromedriver + 5492196
+20  undetected_chromedriver             0x0000000103147a98 undetected_chromedriver + 5876376
+21  undetected_chromedriver             0x0000000103147c60 undetected_chromedriver + 5876832
+22  undetected_chromedriver             0x00000001031595b1 undetected_chromedriver + 5948849
+23  libsystem_pthread.dylib             0x00007ff806f26df1 _pthread_start + 99
+24  libsystem_pthread.dylib             0x00007ff806f22857 thread_start + 15
+
+./logs/12-May-25 20:18:48::__main__::INFO::cannot apply to this job
+./logs/12-May-25 20:18:48::__main__::INFO::Message: element click intercepted: Element <button aria-label="Continue to next step" id="ember66" class="artdeco-button artdeco-button--2 artdeco-button--primary ember-view" data-easy-apply-next-button="" data-live-test-easy-apply-next-button="" type="button">...</button> is not clickable at point (1169, 201). Other element would receive the click: <div class="jobs-loader">...</div>
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+0   undetected_chromedriver             0x00000001031628b8 undetected_chromedriver + 5986488
+1   undetected_chromedriver             0x00000001031599ea undetected_chromedriver + 5949930
+2   undetected_chromedriver             0x0000000102c12600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x0000000102c6b1b0 undetected_chromedriver + 778672
+4   undetected_chromedriver             0x0000000102c69011 undetected_chromedriver + 770065
+5   undetected_chromedriver             0x0000000102c666a2 undetected_chromedriver + 759458
+6   undetected_chromedriver             0x0000000102c65d6e undetected_chromedriver + 757102
+7   undetected_chromedriver             0x0000000102c5842d undetected_chromedriver + 701485
+8   undetected_chromedriver             0x0000000102c8a312 undetected_chromedriver + 906002
+9   undetected_chromedriver             0x0000000102c57da8 undetected_chromedriver + 699816
+10  undetected_chromedriver             0x0000000102c8a4ce undetected_chromedriver + 906446
+11  undetected_chromedriver             0x0000000102cb1566 undetected_chromedriver + 1066342
+12  undetected_chromedriver             0x0000000102c8a0e3 undetected_chromedriver + 905443
+13  undetected_chromedriver             0x0000000102c5661d undetected_chromedriver + 693789
+14  undetected_chromedriver             0x0000000102c57281 undetected_chromedriver + 696961
+15  undetected_chromedriver             0x0000000103120580 undetected_chromedriver + 5715328
+16  undetected_chromedriver             0x0000000103124445 undetected_chromedriver + 5731397
+17  undetected_chromedriver             0x00000001030faed0 undetected_chromedriver + 5562064
+18  undetected_chromedriver             0x0000000103124e7b undetected_chromedriver + 5734011
+19  undetected_chromedriver             0x00000001030e9de4 undetected_chromedriver + 5492196
+20  undetected_chromedriver             0x0000000103147a98 undetected_chromedriver + 5876376
+21  undetected_chromedriver             0x0000000103147c60 undetected_chromedriver + 5876832
+22  undetected_chromedriver             0x00000001031595b1 undetected_chromedriver + 5948849
+23  libsystem_pthread.dylib             0x00007ff806f26df1 _pthread_start + 99
+24  libsystem_pthread.dylib             0x00007ff806f22857 thread_start + 15
+
+./logs/12-May-25 20:18:48::__main__::INFO::598.0 minutes left in this search
+./logs/12-May-25 20:18:48::__main__::DEBUG::Sleeping for 4.8
+./logs/12-May-25 20:19:14::__main__::INFO::Applying to Rust Engineer: San Francisco California
+./logs/12-May-25 20:19:14::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:19:18::__main__::INFO::Lock avoided.
+./logs/12-May-25 20:19:38::__main__::INFO::Looking for jobs.. Please wait..
+./logs/12-May-25 20:19:38::__main__::INFO::599.0 minutes left in this search
+./logs/12-May-25 20:19:38::__main__::DEBUG::Sleeping for 3.8
